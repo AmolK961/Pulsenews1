@@ -1,9 +1,79 @@
 {
   "month": "2026-09",
-  "lastUpdated": "2026-09-30T08:18:02.147Z",
-  "totalArticles": 112,
+  "lastUpdated": "2026-09-30T11:47:38.637Z",
+  "totalArticles": 133,
   "categories": {
     "general": [
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "RAF Fairford latest: Incident 'clearly involves' foreign actor, says US secretary of state - bbc.com",
+        "description": "The secretary of state, who did not provide further details, was speaking to US media after five men arrested on suspicion of terror offences were released on bail.",
+        "url": "https://www.bbc.com/news/live/c65y7nl29k0et",
+        "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+        "publishedAt": "2026-09-29T10:26:29Z",
+        "content": "Daniel SandfordUK correspondent\r\nImage caption, A huge security operation was launched at RAF Fairford in the early hours of Sunday morning\r\nI think we are left reading the room because criminal proc… [+2091 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Alex Gangitano, Megan Messerly, Myah Ward",
+        "title": "‘Fires are everywhere right now’: Trump hits the road to shore up red states - Politico",
+        "description": "Each trip to play defense robs the GOP of a chance to put Democrats on the back foot in states that are traditionally competitive.",
+        "url": "https://www.politico.com/news/2026/09/29/fires-are-everywhere-right-now-trump-hits-the-road-to-shore-up-red-states-01095543",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F6c%2F78%2Fb08094074050b12eb328e9a6c953%2Ftrump-4-277.jpg",
+        "publishedAt": "2026-09-29T09:50:00Z",
+        "content": "President Donald Trump intends to spend the next 30 days campaigning for Republicans, many of whom are underwater in states the president easily carried two years ago.\r\nBastions of conservatism inclu… [+601 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Nvidia's $150B buyback could fuel next stock rally - Yahoo Finance",
+        "description": "Riding the NVDA momentum.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-150b-buyback-could-fuel-next-stock-rally-092454217.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1e19fbf6198f17b318066ee65b3230db8c72cfa5eea585d8d6ac7a4e426f8072/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1790607852369_4461.jpg_89aac8c5de5266c676f7317922f5dff453d633f4e856626cb2947d72d1e9df59.jpg",
+        "publishedAt": "2026-09-29T09:24:54Z",
+        "content": "The hot trade into year-end and early 2027 may just be a tried-and-true one: Nvidia (NVDA).\r\nAnd the NVDA bulls could thank the company's jaw-dropping new stock buyback plan for any added momentum.\r\n… [+2018 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "Mandeep Sanghera",
+        "title": "'Period of deception' - Pochettino on Man City verdict - bbc.com",
+        "description": "Former Tottenham and Chelsea manager Mauricio Pochettino says it is \"impossible to turn back time\" after Manchester City being found guilty of financial breaches.",
+        "url": "https://www.bbc.com/sport/football/articles/cmed7q89vp5no",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3962/live/cf271400-bbdc-11f1-bfea-9d5bb7e7d40b.jpg",
+        "publishedAt": "2026-09-29T09:13:10Z",
+        "content": "Former Tottenham and Chelsea manager Mauricio Pochettino says \"we have lived through a period of deception\" after Manchester City were found guilty of breaking the majority of the charges brought aga… [+1483 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Courtney Cronin",
+        "title": "Bears call on QB3 Case Keenum in rousing victory over Eagles - ESPN",
+        "description": "In his first NFL start in 1,009 days, Chicago third-string quarterback Case Keenum, 38, led the Bears to a dominant 27-7 victory over the perennial NFC heavyweight Philadelphia Eagles on Monday, a performance coach Ben Johnson labeled \"extraordinary.\"",
+        "url": "https://www.espn.com/nfl/story/_/id/50056918/bears-call-qb3-case-keenum-rousing-victory-eagles",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0929%2Fr1723303_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-09-29T06:54:00Z",
+        "content": "CHICAGO -- The night belonged to Case Keenum. And so did a game ball.\r\nAfter leading the Chicago Bears to a dominant 27-7 win over the perennial NFC heavyweight Philadelphia Eagles on Monday, which m… [+4851 chars]",
+        "category": "general"
+      },
       {
         "source": {
           "id": null,
@@ -16,6 +86,20 @@
         "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5666x3187+0+295/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fea%2Fe04a2cef4c16b86029fb26b49d81%2Fap26271028154861.jpg",
         "publishedAt": "2026-09-29T05:59:18Z",
         "content": "NASHVILLE, Tenn. Christa Pike was 18 when she killed a classmate in a jealous rage and became one of the youngest women to be sent to death row. Now 50, she is scheduled to be put to death Wednesday … [+5334 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Roshni Majumdar",
+        "title": "Evicted Spanish pensioner to return home, lawyer says - DW.com",
+        "description": "Maricarmen, who is 87 years old, became a symbol of the housing crisis in Spain after she was evicted last week from the apartment she had lived in for decades.",
+        "url": "https://www.dw.com/en/evicted-spanish-pensioner-to-return-home-lawyer-says/a-79467953",
+        "urlToImage": "https://static.dw.com/image/79461619_6.jpg",
+        "publishedAt": "2026-09-29T05:50:08Z",
+        "content": "An elderly woman who was evicted from the Madrid apartment she lived most of her life in and  whose case sparked widespread solidarity protests across Spain, is going to be able to return home, her l… [+2523 chars]",
         "category": "general"
       },
       {
@@ -90,6 +174,20 @@
       },
       {
         "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Anthony Faiola",
+        "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war - The Washington Post",
+        "description": "Wrapping up a four-day trip to France, the pope praised the European Union for “tearing down walls.”",
+        "url": "https://www.washingtonpost.com/world/2026/09/28/pope-leo-leans-into-statesman-role-urging-peace-an-era-renewed-war/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXLDIBUADGXZEFZNPIS6ICC57Y_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-09-29T03:31:41Z",
+        "content": "METZ, France Pope Leo XIV capped a four-day trip to France in the intellectual birthplace of the European Union, heralding its success at tearing down walls that were dividing it and leaning into his… [+109 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
           "id": null,
           "name": "NBCSports.com"
         },
@@ -142,6 +240,20 @@
         "urlToImage": "https://dims.apnews.com/dims4/default/e87975a/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fb8%2F0f236f7dbe4aa1637b217ed7f181%2Fb1181d3c613740f79a51a97d60d019b2",
         "publishedAt": "2026-09-29T02:58:00Z",
         "content": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit filed by a woman who says she was sexually assaulted in 2024… [+6016 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "‘No definitive timeline’ for David Solomon to step down as CEO, says Goldman Sachs - Financial Times",
+        "description": "Investment bank president John Waldron is widely regarded as chief executive’s heir apparent",
+        "url": "https://www.ft.com/content/b8733b38-a94e-464e-9df7-dfcc757a58f0?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f686737-c39f-44ab-8eb1-3209c1b7ba17.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-29T02:29:14Z",
+        "content": null,
         "category": "general"
       },
       {
@@ -361,6 +473,20 @@
       {
         "source": {
           "id": null,
+          "name": "PhoneArena"
+        },
+        "author": "Abdullah Asim",
+        "title": "The Galaxy Z Fold 8 is thrashing the Galaxy S26 Ultra and the iPhone 18 Pro Max and I couldn’t be happier - PhoneArena",
+        "description": "The Galaxy Z Fold 8 has stolen the show and the Galaxy S26 Ultra and the iPhone 18 Pro Max can barely keep up.",
+        "url": "https://www.phonearena.com/news/galaxy-z-fold-8-is-thrashing-galaxy-s26-ultra-and-iphone-18-pro-max_id183668",
+        "urlToImage": "https://m-cdn.phonearena.com/images/article/183668-wide-two_1200/The-Galaxy-Z-Fold-8-is-thrashing-the-Galaxy-S26-Ultra-and-the-iPhone-18-Pro-Max-and-I-couldnt-be-happier.jpg",
+        "publishedAt": "2026-09-29T02:53:33Z",
+        "content": "The Galaxy Z Fold 8 has been a resounding success for Samsung, so much so that I wouldnt be surprised if its successor picks up better cameras and the Ultra moniker. But aside from being such a belov… [+1799 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
           "name": "Pokebeach.com"
         },
         "author": "Water Pokémon Master",
@@ -402,6 +528,20 @@
       },
       {
         "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Julian Chokkattu",
+        "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio - WIRED",
+        "description": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
+        "url": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
+        "urlToImage": "https://media.wired.com/photos/6aba12206b20363d66df2428/191:100/w_1280,c_limit/Headphone%201%20(Pro)_case.jpg",
+        "publishedAt": "2026-09-29T01:00:00Z",
+        "content": "The Headphone (1) Pro is Nothing's newest pair of cans, the company announced on Monday at an evening event in New York City. The headphones resemble Nothings first-ever over-ear headphones that debu… [+2412 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
           "id": null,
           "name": "Push Square"
         },
@@ -412,6 +552,20 @@
         "urlToImage": "https://images.pushsquare.com/3bf666c34d769/large.jpg",
         "publishedAt": "2026-09-29T00:30:00Z",
         "content": "Image: Push Square\r\nNaughty Dog has started work on a couple of very exciting new The Last of Us projects.\r\nThats according to boss Neil Druckmann, who made the announcement to conclude its the Last … [+1175 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gematsu"
+        },
+        "author": "Sal Romano",
+        "title": "Two new The Last of Us projects in “very early stages” at Naughty Dog - Gematsu",
+        "description": "Two new projects set in the world of The Last of Us are in the “very early stages” at Naughty Dog, studio head Neil Druckmann said in a note marking the end of The Last of Us Day 2026.",
+        "url": "https://www.gematsu.com/2026/09/two-new-the-last-of-us-projects-in-very-early-stages-at-naughty-dog",
+        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/09/TLoU-Projects_09-28-26.jpg",
+        "publishedAt": "2026-09-29T00:22:29Z",
+        "content": "Two new projects set in the world of The Last of Us are in the “very early stages” at Naughty Dog, studio head Neil Druckmann said in a note marking the end of The Last of Us Day 2026. \r\n“Since [The … [+657 chars]",
         "category": "technology"
       },
       {
@@ -552,6 +706,146 @@
         "urlToImage": "https://images.pushsquare.com/45585a9168f15/large.jpg",
         "publishedAt": "2026-09-28T18:30:00Z",
         "content": "Naughty Dog is celebrating The Last of Us Day today with a livestream that collaborates with AbleGamers, where hosts will be playing the No Return mode from The Last of Us 2 Remastered.\r\nThat's later… [+1625 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "James Pero",
+        "title": "Meta’s Smart Glasses PR Cleanup Campaign Is in Full Swing - Gizmodo",
+        "description": "This year's Meta Connect was all about public perception.",
+        "url": "https://gizmodo.com/meta-smart-glasses-public-perception-2000818140",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/lisa-smart-glasses-1200x675.jpg",
+        "publishedAt": "2026-09-28T18:20:41Z",
+        "content": "As expected, Meta hopped straight into discussing new smart glasses at this year’s Connect and unveiled a new generation of Ray-Ban AI glasses (we’re on three now, believe it or not), as well as a bo… [+5171 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Zack Zwiezen",
+        "title": "GTA 6′ s Collector’s Box Gator Statue Can Now Be 3D Printed: ‘$400 And No Disc? F**k You Rockstar’ - Kotaku",
+        "description": "At least one person is so fed up with Rockstar that they modeled a cartoon gator in retaliation",
+        "url": "https://kotaku.com/gta-6s-collectors-box-gator-statue-can-now-be-3d-printed-400-an-no-disc-fk-you-rockstar-2000737999",
+        "urlToImage": "https://kotaku.com/app/uploads/2026/09/statue-top-400-1200x675.jpg",
+        "publishedAt": "2026-09-28T18:20:17Z",
+        "content": "Last week, Rockstar Games revealed a $400 Grand Theft Auto 6-themed collector’s box that doesn’t include the game, but does include merch based on a fictional TV show found in the upcoming open-world… [+1994 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Chance Miller",
+        "title": "AirPods Pro 3 vs AirPods 5: Three reasons to go Pro - 9to5Mac",
+        "description": "Apple debuted AirPods 5 in September. Here's how to decide between AirPods 5 vs AirPods Pro 3, including all the new features.",
+        "url": "https://9to5mac.com/2026/09/28/airpods-pro-3-vs-airpods-5/",
+        "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&strip=all&resize=1200,628",
+        "publishedAt": "2026-09-28T18:05:00Z",
+        "content": "Apple debuted the all-new AirPods 5 this month, and they bring ANC to lower prices than ever before. If youre shopping for AirPods, however, there are still several reasons you might want to opt for … [+2403 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new - 9to5Mac",
+        "description": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Here’s what’s new.",
+        "url": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
+        "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-200-changes-and-features.jpg?quality=82&strip=all&resize=1200,628",
+        "publishedAt": "2026-09-28T17:08:00Z",
+        "content": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Heres whats new.\r\niPhone users, Apple has just launched its latest software update… [+1715 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Anthony Wood",
+        "title": "October full moon 2026 — When, where and how to see the Hunter's Moon - Space",
+        "description": "Your guide to October's full Hunter's Moon, from peak times to skywatching highlights.",
+        "url": "https://www.space.com/stargazing/october-full-moon-2026-when-where-and-how-to-see-the-hunters-moon",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/Bp3eB5MrSmMJCnjxLWU5QW-2000-80.jpg",
+        "publishedAt": "2026-09-28T17:00:00Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BGR"
+        },
+        "author": "Eduardo Ariedo",
+        "title": "How Much Would It Cost To Build A PC Equivalent To The PlayStation 5 Pro In 2026? - bgr.com",
+        "description": "The cost of Sony's top-of-the-line PlayStation 5 Pro has risen significantly over the past year, but how does it stack up to a PC with similar specs?",
+        "url": "https://www.bgr.com/2266742/playstation-5-pro-how-much-similar-pc-build-costs/",
+        "urlToImage": "https://www.bgr.com/img/gallery/how-much-would-it-cost-to-build-a-pc-equivalent-to-the-playstation-5-pro-in-2026/l-intro-1790185273.jpg",
+        "publishedAt": "2026-09-28T16:47:00Z",
+        "content": "To get your desktop running, you would pay about $180 for the processor, roughly $500 for a Radeon RX 9060 XT, and $160 for the B650 motherboard. You would also need to pay another $240 for 16GB of D… [+843 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Zack Zwiezen",
+        "title": "People Are Going Completely Wild Over Fortnite's FNAF Crossover Announcement - Kotaku",
+        "description": "Fortnite's post revealing the horror-themed crossover has become the game's biggest tweet ever",
+        "url": "https://kotaku.com/people-are-going-completely-wild-over-fortnites-fnaf-crossover-annoumcent-2000737967",
+        "urlToImage": "https://kotaku.com/app/uploads/2026/09/fnaf-fortnite-1200x675.jpg",
+        "publishedAt": "2026-09-28T16:30:32Z",
+        "content": "Did you know that a lot of people like Fortnite? Did you also know that a lot of people like Five Nights at Freddy’s? Well, these are both true statements, and if you want proof, take a look at Fortn… [+2128 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "I Love the Upper West Side"
+        },
+        "author": "Mike Mishkin",
+        "title": "Velvet Cowboy, a Western Bar With a $5 Food Menu, Opens on the Upper West Side Tomorrow - iLovetheUpperWestSide.com",
+        "description": "The Jacob's Pickles team's new bar opens Tuesday with Southwest-inspired cocktails and a menu where every dish costs $5.",
+        "url": "https://www.ilovetheupperwestside.com/velvet-cowboy-a-western-bar-with-a-5-food-menu-opens-on-the-upper-west-side-tomorrow/",
+        "urlToImage": "https://www.ilovetheupperwestside.com/material/media/media/velvet-cowboy.jpeg",
+        "publishedAt": "2026-09-28T16:23:26Z",
+        "content": "c/o Velvet Cowboy\r\nVelvet Cowboy, a new bar from the team behind Jacob’s Pickles, opens on the Upper West Side on Tuesday, with a concept inspired by the American Southwest and the 1970s.\r\nThe bar is… [+1599 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xbox.com"
+        },
+        "author": "Joe Skrebels, XBOX Wire Editor-in-Chief",
+        "title": "Gears of War: E-Day and XBOX Unleash “The Emergence Pie” with Prince St. Pizza - news.xbox.com",
+        "description": "XBOX and Prince St. Pizza announced today a special collaboration celebrating the launch of Gears of War: E-Day, including a limited-edition pie, a pizza cutter, and more.",
+        "url": "https://news.xbox.com/en-us/2026/09/28/gears-of-war-e-day-prince-st-pizza/",
+        "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/HERO-da5d44dc7c6701f7ec43.jpg",
+        "publishedAt": "2026-09-28T16:04:12Z",
+        "content": "XBOX and Prince St. Pizza announced today a special collaboration celebrating the launch of Gears of War: E-Day. Available at Prince St. Pizza locations across the U.S. and Toronto, Canada through No… [+1504 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Arcraiders.com"
+        },
+        "author": null,
+        "title": "Reward Passes: our new progression mechanic, explained - ARC Raiders",
+        "description": "Frozen Trail arrives October 8, and with it, a new progression mechanic we call the Reward Pass. Here’s everything you need to know about the system, and what to expect from the two Passes coming with Frozen Trail.",
+        "url": "https://arcraiders.com/news/frozen-trail-reward-pass",
+        "urlToImage": "https://assets.arcraiders.com/static/social/arc-raiders-social.png",
+        "publishedAt": "2026-09-28T16:00:46Z",
+        "content": "Raiders,\r\nFrozen Trail arrives October 8, and with it, a new progression mechanic we call the Reward Pass. Heres everything you need to know about the system, and what to expect from the two Passes c… [+2982 chars]",
         "category": "technology"
       },
       {

@@ -39,7 +39,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3900;
 const NEWS_API_KEY = process.env.NEWS_API_KEY || 'd88b335014cc466e8faef7065fa999e1';
 const NEWS_API_BASE = 'https://newsapi.org/v2';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
