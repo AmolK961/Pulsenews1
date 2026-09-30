@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sub-1790528380698",
+    "name": "Content Ninja Reader",
+    "email": "ninja.reader@pulse.io",
+    "profession": "Software Architect",
+    "categories": [
+      "technology",
+      "business"
+    ],
+    "frequency": "monthly",
+    "format": "digital",
+    "youtubeSubscribed": true,
+    "subscribedAt": "2026-09-27T16:59:40.698Z"
+  },
+  {
+    "id": "sub-1",
+    "name": "Sarah Jenkins, MD",
+    "email": "s.jenkins@stanfordmed.org",
+    "profession": "Medical Doctor / Physician",
+    "categories": [
+      "health",
+      "science"
+    ],
+    "frequency": "weekly",
+    "format": "digital",
+    "subscribedAt": "2026-09-24T16:56:32.961Z"
+  },
+  {
+    "id": "sub-2",
+    "name": "David Vance, MBA",
+    "email": "dvance@vanceholdings.com",
+    "profession": "Business Executive / Founder",
+    "categories": [
+      "business",
+      "technology"
+    ],
+    "frequency": "weekly",
+    "format": "pdf",
+    "subscribedAt": "2026-09-22T16:56:32.961Z"
+  },
+  {
+    "id": "sub-3",
+    "name": "Alexander Chen",
+    "email": "alex.chen@archsystems.io",
+    "profession": "Systems Architect / Tech Lead",
+    "categories": [
+      "technology",
+      "science"
+    ],
+    "frequency": "daily",
+    "format": "executive_summary",
+    "subscribedAt": "2026-09-20T16:56:32.961Z"
+  },
+  {
+    "id": "sub-4",
+    "name": "Coach Marcus Bell",
+    "email": "marcus@performancebiomechanics.com",
+    "profession": "Athletic Coach / Sports Scientist",
+    "categories": [
+      "sports",
+      "health"
+    ],
+    "frequency": "monthly",
+    "format": "digital",
+    "subscribedAt": "2026-09-15T16:56:32.961Z"
+  }
+]

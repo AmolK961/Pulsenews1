@@ -1,0 +1,3 @@
+# Google AdSense Publisher Verification File
+# Publisher ID: pub-8153839325985487
+google.com, pub-8153839325985487, DIRECT, f08c47fec0942fa0

@@ -1,0 +1,6 @@
+{
+  "name": "PulseNews - Global News & Android PWA",
+  "description": "Real-time multi-category news portal and installable Android app powered by NewsAPI with in-app reader, live iframe viewer, category discovery, and offline reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

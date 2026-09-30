@@ -1,0 +1,60 @@
+{
+  "expo": {
+    "name": "PulseNews",
+    "slug": "pulsenews-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#020617"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pulsenews.mobile",
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        },
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#020617"
+      },
+      "package": "com.pulsenews.mobile",
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
+    },
+    "updates": {
+      "url": "https://u.expo.dev/YOUR-EXPO-PROJECT-ID",
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 3000
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "YOUR-EXPO-PROJECT-ID"
+      },
+      "newsApiKey": "d88b335014cc466e8faef7065fa999e1",
+      "backendUrl": "https://ais-dev-d4pdmtkhvm7bg54ovl2nnq-367863762389.asia-southeast1.run.app"
+    },
+    "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "pulsenews"
+        }
+      ]
+    ]
+  }
+}

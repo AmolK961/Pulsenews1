@@ -1,0 +1,1505 @@
+{
+  "month": "2026-09",
+  "lastUpdated": "2026-09-30T08:18:02.147Z",
+  "totalArticles": 112,
+  "categories": {
+    "general": [
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "The Associated Press",
+        "title": "Tennessee is set to execute a woman for the first time in 200 years - NPR",
+        "description": "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee's first execution of a woman in 200 years.",
+        "url": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5666x3187+0+295/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fea%2Fe04a2cef4c16b86029fb26b49d81%2Fap26271028154861.jpg",
+        "publishedAt": "2026-09-29T05:59:18Z",
+        "content": "NASHVILLE, Tenn. Christa Pike was 18 when she killed a classmate in a jealous rage and became one of the youngest women to be sent to death row. Now 50, she is scheduled to be put to death Wednesday … [+5334 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Marlow Stern",
+        "title": "Mayor Zohran Mamdani Refuses Jimmy Kimmel’s Request to Text Trump a Selfie of Them - Variety",
+        "description": "The popular mayor of New York City helped kick off a week of “Jimmy Kimmel Live” shows in Brooklyn.",
+        "url": "https://variety.com/2026/tv/news/zohran-mamdani-jimmy-kimmel-live-donald-trump-selfie-text-1236877861/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/09/ucla-jonsson-cancer-center-foundation-s-28th-annual-taste-fo-1000x667-1.jpg?crop=0px%2C3px%2C1000px%2C562px&resize=1000%2C563",
+        "publishedAt": "2026-09-29T05:01:00Z",
+        "content": "“Jimmy Kimmel Live” is back in Brooklyn.\r\nThe late-night show has returned to the New York City borough for a week of shows at the Brooklyn Academy of Music. It’s Kimmel’s eighth time filming “Live” … [+3380 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "New York Times executive fatally shot allegedly by elderly in-laws - bbc.com",
+        "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+        "url": "https://www.bbc.com/news/articles/cred737qdv2no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png",
+        "publishedAt": "2026-09-29T04:06:43Z",
+        "content": "Jonathan McKinsey, 40, the newspaper's director of engineering for games player experience, was found with multiple gunshot wounds in a car park in Dublin - 35 miles (56km) east of San Francisco - on… [+32 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hawaii News Now"
+        },
+        "author": "Lynn Kawano",
+        "title": "New potent street drug prompts Hawaii health alert - Hawaii News Now",
+        "description": "Cychlorphine, a synthetic opioid up to 10 times stronger than fentanyl, has caused deaths across the U.S., prompting local officials to prepare for its arrival.",
+        "url": "https://www.hawaiinewsnow.com/2026/09/29/new-potent-street-drug-prompts-hawaii-health-alert/",
+        "urlToImage": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/VI6SQ2AH5JFH7J2B463TJ72JUA.jpg?auth=9e239a1d94467503f63615e381fb5d6fae768839ca21898ea51696215220b04e&width=1200&height=600&smart=true",
+        "publishedAt": "2026-09-29T03:59:00Z",
+        "content": "HONOLULU (HawaiiNewsNow) - An extremely potent illegal drug called cychlorphine is killing people in multiple states, including a teenager in California. Hawaii health officials say it is a matter of… [+2627 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences - Al Jazeera",
+        "description": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
+        "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26271426330457-1790613089_918b58-1790653138.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2026-09-29T03:43:37Z",
+        "content": "Russian forces have again struck the Ukrainian capital, Kyiv, hours after a drone hit the National Academy of Sciences in the historic centre of the city, killing at least two people.\r\nExplosions wer… [+3930 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KCCI Des Moines"
+        },
+        "author": "Amanda Rooker",
+        "title": "Trump announces $15 billion steel plant planned for southeast Iowa - KCCI",
+        "description": "The White House said President Trump will announce a new steel plant in eastern Iowa that would be one of the largest in the United States.",
+        "url": "https://www.kcci.com/article/trump-to-announce-15-billion-steel-mill-planned-for-iowa/73925657",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/cd60cdb0-50a6-4796-a29d-7fc428460ec5.jpg?crop=1.00xw%3A0.848xh%3B0%2C0.152xh&resize=1200%3A*",
+        "publishedAt": "2026-09-29T03:32:00Z",
+        "content": "WASHINGTONPresident Donald Trump on Monday announced a new steel plant in southeast Iowa that he says will be the largest in the United States. The president hosted steel executives and several Iowa … [+7628 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Charean Williams",
+        "title": "Monday Night Football: Case Keenum, Bears beat Eagles 27-7 - NBC Sports",
+        "description": "The Bears third-string quarterback hadn't played since 2023.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-case-keenum-bears-beat-eagles-27-7",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/57d10fc/2147483647/strip/true/crop/3953x2224+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F92%2F0629f20449c7924b86d88d3b2a3c%2F2297636771.jpg",
+        "publishedAt": "2026-09-29T03:17:52Z",
+        "content": "Case Keenum, playing his first game since 2023, ran for a touchdown and threw two touchdowns in leading the Bears to a 27-7 blowout of the Eagles. Both teams are 2-1.\r\nDespite playing without startin… [+1601 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Usni.org"
+        },
+        "author": "Sam LaGrone",
+        "title": "Four Injured After Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered - news.usni.org",
+        "description": "This post will be updated as new information becomes available. Four personnel were injured in a landing mishap aboard USS Dwight D. Eisenhower (CVN-69) on Monday, USNI News has learned. The crew of the unspecified two-seat aircraft assigned to Carrier Air Wi…",
+        "url": "https://news.usni.org/2026/09/28/four-injured-after-landing-mishap-aboard-uss-dwight-d-eisenhower-crew-safely-recovered",
+        "urlToImage": "https://news.usni.org/wp-content/uploads/2026/05/9667243-scaled.jpg",
+        "publishedAt": "2026-09-29T03:08:00Z",
+        "content": "An F/A-18F Super Hornet, attached to the ‘Fighting Swordsmen’ of Strike Fighter Squadron (VFA) 32, lands on the flight deck of Nimitz-class aircraft carrier USS Dwight D. Eisenhower (CVN-69) May 6, 2… [+1365 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Payton Turkeltaub",
+        "title": "Dennis Haskins, ‘Saved by the Bell’ Star, Dies at 75 - Variety",
+        "description": "Dennis Haskins, the actor best known for portraying Principal Richard Belding on “Saved by the Bell,” has died.",
+        "url": "https://variety.com/2026/tv/obituaries-people-news/dennis-haskins-dead-saved-by-the-bell-principal-1236877845/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/09/GettyImages-1076207336.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-09-29T03:00:00Z",
+        "content": "Dennis Haskins, the actor best known for portraying Principal Richard Belding on “Saved by the Bell,” has died. He was 75.\r\nHaskins’ longtime agent, Jay Schachter, confirmed the news to Variety on Mo… [+2123 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Dave Collins, John Seewer",
+        "title": "Prosecutor reopens probe into Cornell gang rape allegations after accuser files lawsuit - AP News",
+        "description": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit. The complaint was filed by a woman who says she was sexually assaulted in 2024 by seven students after being plied with…",
+        "url": "https://apnews.com/article/cornell-rape-allegations-investigation-16f59e89ce97e3a40a8e672f7b3f374b",
+        "urlToImage": "https://dims.apnews.com/dims4/default/e87975a/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fb8%2F0f236f7dbe4aa1637b217ed7f181%2Fb1181d3c613740f79a51a97d60d019b2",
+        "publishedAt": "2026-09-29T02:58:00Z",
+        "content": "A New York prosecutor has reopened an investigation into gang rape allegations at a Cornell University fraternity in response to a lawsuit filed by a woman who says she was sexually assaulted in 2024… [+6016 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Lindsay Clancy holdout juror asks for one thing in new video after mistrial drama - Fox News",
+        "description": "Michael Desronvil, the holdout juror in the Lindsay Clancy mistrial, speaks publicly for the first time as allegations from fellow jurors intensify.",
+        "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-asks-one-thing-new-video-mistrial-drama",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Clancy-lone-juror.gif",
+        "publishedAt": "2026-09-29T01:50:03Z",
+        "content": "PLYMOUTH, Mass. The lone holdout juror who defied 11 others by maintaining his belief that former Massachusetts nurse Lindsay Clancy was guilty of murder before a mistrial was declared earlier this m… [+2868 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "John Power",
+        "title": "OpenAI scraps release of latest AI model over safety concerns - Al Jazeera",
+        "description": "AI giant says latest model failed to meet alignment standards during internal testing.",
+        "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-28T223038Z_1656552687_RC29LNAECGOF_RTRMADP_3_AI-SAFETY-OPENAI-1790641403_cd656d-1790642721.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2026-09-29T01:41:15Z",
+        "content": "OpenAI has announced it will not release its latest AI model after flagging safety risks during in-house testing, industrys latest move to slow the rollout of the controversial frontier technology.\r\n… [+3390 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Jordain Carney",
+        "title": "Taxpayer-funded ads are the latest Trump headache for beleaguered GOP senators - Politico",
+        "description": "Voters “don’t want to be worried about how their taxpayer dollars are being spent,” Utah Sen. John Curtis said.",
+        "url": "https://www.politico.com/news/2026/09/28/trump-taxpayer-ads-senate-gop-01096502",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F4d%2F92%2F7ba30c394510b2a7f1cc20202b01%2Fu-s-congress-1-57.jpg",
+        "publishedAt": "2026-09-29T01:30:00Z",
+        "content": "Senate Republicans want to spend this week insulating themselves from a deteriorating political environment before getting back on the campaign trail. Instead, theyre fending off some final curveball… [+631 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Global Affairs Bureau",
+        "title": "Global Leaders Gather at Summit to Address Climate and Economic Resilience",
+        "description": "Delegates from over 80 nations convened this morning to negotiate new international frameworks prioritizing sustainable energy transitions and supply chain security.",
+        "url": "https://apnews.com/article/global-climate-resilience-summit",
+        "urlToImage": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T05:44:56.801Z",
+        "content": "International delegates reached preliminary consensus on shared climate pledges and investment corridors for next-generation clean infrastructure..."
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Logistics Wire",
+        "title": "Global Trade Corridors See Surge as Digital Customs Streamline Freight Flow",
+        "description": "New automated logistics hubs and smart port systems have reduced customs processing times by up to 35 percent across major continental maritime lanes.",
+        "url": "https://reuters.com/business/global-trade-digital-customs-surge",
+        "urlToImage": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T03:44:56.801Z",
+        "content": "Port operations in Rotterdam, Singapore, and Los Angeles report record throughput as container tracking modernization takes full effect..."
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "Metropolitan Team",
+        "title": "Major Metropolitan Transit Expansion Connects Over 12 Million Commuters",
+        "description": "City officials celebrated the inauguration of the rapid rail network extension, cutting average cross-city travel times in half while eliminating vehicle congestion.",
+        "url": "https://bbc.com/news/transit-expansion-commuter-rail",
+        "urlToImage": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T01:44:56.801Z",
+        "content": "The zero-emission transit expansion features automated high-frequency train units powered entirely by localized grid solar arrays..."
+      },
+      {
+        "source": {
+          "id": "the-guardian",
+          "name": "The Guardian"
+        },
+        "author": "Civic Affairs Reporter",
+        "title": "New Digital Public Library Initiative Expands Free Access to Global Educational Materials",
+        "description": "An international coalition of universities and civic foundations has released a unified open-access portal hosting millions of research papers, archives, and books.",
+        "url": "https://theguardian.com/education/digital-public-library-free-access",
+        "urlToImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T23:44:56.801Z",
+        "content": "Students and researchers worldwide can now access peer-reviewed journals, audiobooks, and historical transcripts completely free of paywalls..."
+      },
+      {
+        "source": {
+          "id": "washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Urban Renewal Staff",
+        "title": "Clean Water Infrastructure Modernization Program Reaches 500th Community",
+        "description": "Federal and local water boards completed major pipe replacements and sensor deployments ensuring lead-free, high-purity tap water for millions.",
+        "url": "https://washingtonpost.com/clean-water-infrastructure-reaches-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T21:44:56.801Z",
+        "content": "The nationwide initiative deployed advanced acoustic leak sensors and corrosion-resistant composite piping across aging municipal grids..."
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Global Energy Desk",
+        "title": "Renewable Power Share in Global Electricity Generation Reaches Historic High",
+        "description": "Wind, solar, and modern hydroelectric installations accounted for over 38% of worldwide electrical output over the past quarter.",
+        "url": "https://bloomberg.com/news/renewable-power-generation-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T18:44:56.801Z",
+        "content": "Grid operators noted improved battery storage buffering has eliminated intermittency problems even during peak industrial hours..."
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Aviation Bureau",
+        "title": "Commercial Airlines Report Record Punctuality Following AI Air Traffic Upgrade",
+        "description": "Next-generation flight path optimization algorithms have minimized runway delays, reduced airborne holding patterns, and saved millions of gallons of fuel.",
+        "url": "https://reuters.com/business/aerospace-air-traffic-ai-upgrade",
+        "urlToImage": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T14:44:56.801Z",
+        "content": "Major international hubs reported average arrival delays declined from 24 minutes to under four minutes during high-density flight operations..."
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Disaster Prevention Team",
+        "title": "Early Warning Satellite Constellation Detects Wildfires Within Seconds of Ignition",
+        "description": "High-frequency infrared sensors orbiting the globe now relay thermal alerts directly to local firefighting crews before blazes spread.",
+        "url": "https://apnews.com/article/satellite-wildfire-early-warning-system",
+        "urlToImage": "https://images.unsplash.com/photo-1542385151-efd9000785a0?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T10:44:56.801Z",
+        "content": "Early containment rates jumped by over 60 percent during testing along heavily forested western mountain corridors..."
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "Science & Society",
+        "title": "Ocean Clean-Up Fleet Removes 10,000 Metric Tons of Plastic Waste in Single Mission",
+        "description": "Autonomous barrier sweeps deployed in oceanic gyres successfully captured massive aggregations of ghost nets and microplastics for recycling.",
+        "url": "https://bbc.com/news/ocean-cleanup-record-plastic-removal",
+        "urlToImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T06:44:56.801Z",
+        "content": "The recovered polymers are being transported to coastal processing facilities to be converted into durable construction materials..."
+      },
+      {
+        "source": {
+          "id": "the-guardian",
+          "name": "The Guardian"
+        },
+        "author": "Education Desk",
+        "title": "Global Literacy Initiative Equips Remote Schools with Solar Satellite Classrooms",
+        "description": "Off-grid schools in remote mountain and island regions now enjoy instant access to multilingual interactive curricula and global educators.",
+        "url": "https://theguardian.com/global-education-solar-satellite-classrooms",
+        "urlToImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T02:44:56.801Z",
+        "content": "Self-charging tablet banks and micro-servers allow students to learn STEM and language skills without requiring local grid power..."
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Trade Policy",
+        "title": "New Cross-Border Digital Currency Pact Facilitates Instant Zero-Fee Remittances",
+        "description": "Central banks across ten emerging markets have unified real-time payment rails to reduce remittance costs for millions of overseas families.",
+        "url": "https://reuters.com/business/cross-border-digital-currency-pact",
+        "urlToImage": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T22:44:56.801Z",
+        "content": "Transaction settlement times plummeted from 3 business days to under two seconds with complete transparency on foreign exchange rates..."
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Civic Infrastructure",
+        "title": "Smart Seismic Dampening Retrofits Completed Across 200 Earthquake-Prone High-Rises",
+        "description": "New tuned mass liquid dampers and active computer stabilization systems provide unprecedented seismic protection for high-density downtown apartments.",
+        "url": "https://apnews.com/article/smart-seismic-damping-skyscrapers",
+        "urlToImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T18:44:56.801Z",
+        "content": "Sensors embedded throughout building foundations detect P-waves seconds ahead of violent shaking, automatically locking elevators and gas mains..."
+      }
+    ],
+    "technology": [
+      {
+        "source": {
+          "id": null,
+          "name": "Theautopian.com"
+        },
+        "author": "Thomas Hundal",
+        "title": "It’s About Damn Time Trucks Started Offering Old-School Two-Tone Colors Again - The Autopian",
+        "description": "You can get a crew cab 2027 Ford F-150 with old-school two-tone paint and it looks as excellent as you'd expect.",
+        "url": "https://www.theautopian.com/its-about-damn-time-trucks-started-offering-old-school-two-tone-colors-again/",
+        "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Two_Tone_F150_TS2.jpg",
+        "publishedAt": "2026-09-29T03:52:58Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pokebeach.com"
+        },
+        "author": "Water Pokémon Master",
+        "title": "All 429 \"Deluxe Pack Mega\" Cards Revealed for \"Pocket!\" - PokeBeach",
+        "description": "A new update to Pokemon TCG Pocket has revealed all the cards from Deluxe Pack Mega! The set will be available for a limited time from September 30th",
+        "url": "https://www.pokebeach.com/2026/09/all-429-deluxe-pack-mega-cards-revealed-for-pocket",
+        "urlToImage": "https://www.pokebeach.com/news/2026/09/425-Mega-Charizard-ex-Deluxe-Pack-Mega.jpg",
+        "publishedAt": "2026-09-29T02:52:26Z",
+        "content": "Pokémon and its trademarks are ©1995-2026 Nintendo, Creatures, and GAMEFREAK. English card images appearing on this website are the property of The Pokémon Company International, Inc.\r\nPokeBeach.com … [+264 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gematsu"
+        },
+        "author": "Sal Romano",
+        "title": "Monster Hunter Outlanders launches October 29 - Gematsu",
+        "description": "Free-to-play open-world survival game Monster Hunter Outlanders will launch for iOS via App Store and Android via Google Play on October 29, TiMi Studio Group and Capcom announced. In mainland Chin…",
+        "url": "https://www.gematsu.com/2026/09/monster-hunter-outlanders-launches-october-29",
+        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/09/MHO-Date_09-28-26.jpg",
+        "publishedAt": "2026-09-29T02:15:42Z",
+        "content": "Free-to-play open-world survival game Monster Hunter Outlanders will launch for iOS via App Store and Android via Google Play on October 29, TiMi Studio Group and Capcomannounced. In mainland China, … [+2267 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Chris Gardner",
+        "title": "BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones - The Hollywood Reporter",
+        "description": "Praised Nothing co-founder and CEO Carl Pei: \"V has an instinct for fearless experimentation. He's always pushing into different sounds and styles.\"",
+        "url": "http://www.hollywoodreporter.com/lifestyle/style/bts-superstar-v-global-brand-ambassador-nothing-headphones-1236714058/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Headphone-1.jpg?crop=0px%2C16px%2C8000px%2C4476px&resize=1440%2C810",
+        "publishedAt": "2026-09-29T01:22:59Z",
+        "content": "V is everything to Nothing. \r\nThe BTS superstar has joined the tech-forward accessories company as its latest global ambassador, and he debuts by starring in a new campaign modeling Nothing’s new Hea… [+2300 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Push Square"
+        },
+        "author": "Sammy Barker",
+        "title": "New The Last of Us Projects in 'Very Early Stages' of Development - pushsquare.com",
+        "description": "\"These stories are worth telling\"",
+        "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+        "urlToImage": "https://images.pushsquare.com/3bf666c34d769/large.jpg",
+        "publishedAt": "2026-09-29T00:30:00Z",
+        "content": "Image: Push Square\r\nNaughty Dog has started work on a couple of very exciting new The Last of Us projects.\r\nThats according to boss Neil Druckmann, who made the announcement to conclude its the Last … [+1175 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces - MacRumors",
+        "description": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging....",
+        "url": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
+        "urlToImage": "https://images.macrumors.com/t/NuDa84z4PV4wgt5FllkUNv14Guw=/1600x/article-new/2026/09/iphone-duo-weather.jpg",
+        "publishedAt": "2026-09-29T00:04:00Z",
+        "content": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging. Apple showed the mode in press materials, but leaker pdfu tod… [+1481 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Push Square"
+        },
+        "author": "Sammy Barker",
+        "title": "Enhance Your Ace Combat 8 Experience with Two Rival PS5 Flight Sticks, Out This Week - Push Square",
+        "description": "Do a barrell roll",
+        "url": "https://www.pushsquare.com/news/2026/09/enhance-your-ace-combat-8-experience-with-two-rival-ps5-flight-sticks-out-this-week",
+        "urlToImage": "https://images.pushsquare.com/4277ed606e3c8/large.jpg",
+        "publishedAt": "2026-09-28T23:30:00Z",
+        "content": "Image: Push Square\r\nIn a stacked year for new video games, Ace Combat 8: Wings of Theve has emerged as anotherGame of the Year candidate.\r\nWe awarded the title a very respectable 8/10, but on aggrega… [+1665 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PCMag.com"
+        },
+        "author": "Michael Kan",
+        "title": "Newer Chromebooks Will Be Able to Upgrade to Googlebook OS - PCMag",
+        "description": "The company also confirms it'll continue to support ChromeOS through mid-2034.",
+        "url": "https://www.pcmag.com/news/newer-chromebooks-will-be-able-to-upgrade-to-googlebook-os",
+        "urlToImage": "https://i.pcmag.com/imagery/articles/01YCTxaKcyLlFN7i9eNktnC-2.fit_lim.size_1200x630.v1790620050.jpg",
+        "publishedAt": "2026-09-28T22:06:13Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Eric Slivka",
+        "title": "Apple Releases watchOS 27.0.1 for Additional Models - MacRumors",
+        "description": "After releasing watchOS 27.0.1 for the Apple Watch Series 12 and Apple Watch Ultra 4 last week to address a bug that was causing devices to restart...",
+        "url": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/",
+        "urlToImage": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg",
+        "publishedAt": "2026-09-28T21:08:51Z",
+        "content": "After releasing watchOS 27.0.1 for the Apple Watch Series 12 and Apple Watch Ultra 4 last week to address a bug that was causing devices to restart unexpectedly, Apple has now released the update for… [+255 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GSMArena.com"
+        },
+        "author": "Peter",
+        "title": "The Galaxy S25 series plus the Galaxy Z Fold7 and Z Flip7 are now getting stable One UI 9 - GSMArena.com news - GSMArena.com",
+        "description": "The update has started rolling out to users in South Korea. Samsung announced the One UI 9 update for the S26 series – it started rolling out in South...",
+        "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s25-series-z7-series-one-ui-9-update/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-09-28T20:01:02Z",
+        "content": "Samsung announced the One UI 9 update for the S26 series it started rolling out in South Korea first (September 16) and reached the US a week later (September 23). Now, the latest version of One UI (… [+1615 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "Siri AI is available on newer Apple devices only, here’s the full list - 9to5Mac",
+        "description": "Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.",
+        "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
+        "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+        "publishedAt": "2026-09-28T19:43:00Z",
+        "content": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Heres the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, App… [+1837 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "iPhone 18 Pro First Impressions: What Do You Think So Far? - MacRumors",
+        "description": "It's been a little over a week since the iPhone 18 Pro models launched, and we want to hear from MacRumors readers. What do you think of...",
+        "url": "https://www.macrumors.com/2026/09/28/iphone-18-pro-first-impressions/",
+        "urlToImage": "https://images.macrumors.com/t/_U_WeOCxgqTR33NcWIoeDd9tUfw=/2500x/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
+        "publishedAt": "2026-09-28T19:26:48Z",
+        "content": "It's been a little over a week since the iPhone 18 Pro models launched, and we want to hear from MacRumors readers. What do you think of Apple's newest iPhones?\r\nIf you upgraded from an older phone, … [+1490 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Zoe Malin",
+        "title": "Amazon just dropped new early October Prime Day deals — here’s 41+ that are actually worth it - NBC News",
+        "description": "Prime Big Deal Days is back from October 6 to 7, and we’re already shopping early deals. Find editor-approved markdowns on iRobot, Ninja, Casper, Lego and more.",
+        "url": "https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna600293",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260928-PBDD-EARLY-DEALS-dj-main-cb1fca.jpg",
+        "publishedAt": "2026-09-28T19:22:44Z",
+        "content": "October Prime Day (a.k.a Prime Big Deal Days) is only a week away: The Prime member-exclusive runs from October 6 to 7, but you dont need to wait until then to shop. Amazon already dropped prices on … [+12674 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Internet"
+        },
+        "author": "The Hacker News",
+        "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks - The Hacker News",
+        "description": "Apple patched CVE-2026-86950, a CoreGraphics flaw that may have been exploited in targeted attacks via maliciously crafted",
+        "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg",
+        "publishedAt": "2026-09-28T19:18:00Z",
+        "content": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\r\nThe vulnerability, tracked as CVE… [+1342 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Push Square"
+        },
+        "author": "Liam Croft",
+        "title": "The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures - pushsquare.com",
+        "description": "Get your redemption code here",
+        "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+        "urlToImage": "https://images.pushsquare.com/45585a9168f15/large.jpg",
+        "publishedAt": "2026-09-28T18:30:00Z",
+        "content": "Naughty Dog is celebrating The Last of Us Day today with a livestream that collaborates with AbleGamers, where hosts will be playing the No Return mode from The Last of Us 2 Remastered.\r\nThat's later… [+1625 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Silicon Valley Desk",
+        "title": "Next-Generation Quantum Processor Achieves Real-Time Error Correction Milestone",
+        "description": "Researchers unveiled a fault-tolerant logical qubit breakthrough that paves the path toward commercial-scale quantum algorithms for materials discovery.",
+        "url": "https://techcrunch.com/quantum-processor-error-correction-breakthrough",
+        "urlToImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T04:44:56.801Z",
+        "content": "The computing team demonstrated fidelity thresholds above 99.9% while running complex optimization circuits on superconducting silicon arrays..."
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Gadget & Hardware Review",
+        "title": "High-Density Solid-State Batteries Enter Mass Vehicle Field Trials",
+        "description": "Automakers have begun on-road deployment of silicon-anode solid-state battery packs capable of 600 miles of range and 12-minute ultra-fast charging.",
+        "url": "https://theverge.com/solid-state-battery-mass-trials",
+        "urlToImage": "https://images.unsplash.com/photo-1558441719-8b489c63f771?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T02:44:56.801Z",
+        "content": "Test vehicles subjected to sub-zero winter testing showed minimal degradation, providing a major boost to long-distance clean transportation..."
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "AI Innovation Lab",
+        "title": "Open Source Neural Architectures Match Proprietary Benchmarks on Edge Devices",
+        "description": "Lightweight distilled models can now execute multi-modal vision and reasoning tasks locally on mobile phones without transmitting data to cloud servers.",
+        "url": "https://wired.com/open-source-ai-edge-mobile-breakthrough",
+        "urlToImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T00:44:56.801Z",
+        "content": "By optimizing INT4 quantization and speculative decoding, modern smartphone chips can run 15 tokens per second while using less than 2 watts of battery..."
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Cybersecurity Desk",
+        "title": "Post-Quantum Cryptography Standards Formally Adopted by Web Infrastructure Providers",
+        "description": "Major browser engines and CDN networks have begun defaulting to lattice-based key exchange algorithms to safeguard encrypted web traffic against future quantum attacks.",
+        "url": "https://arstechnica.com/security/post-quantum-cryptography-adopted",
+        "urlToImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T22:44:56.801Z",
+        "content": "The migration represents one of the largest cryptographic overhauls since the introduction of public-key encryption in the late 1970s..."
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Hardware Team",
+        "title": "Ultra-Fast 6G Terahertz Wireless Data Transmission Verified in Urban Field Test",
+        "description": "Telecommunications engineers demonstrated continuous 100 Gbps wireless transfers between skyscrapers, enabling instant holographic communications.",
+        "url": "https://techcrunch.com/6g-wireless-terahertz-urban-test",
+        "urlToImage": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T20:44:56.801Z",
+        "content": "The prototype transceiver operates in the 300 GHz band with dynamic beamforming to bypass precipitation and physical building interference..."
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Computing Bureau",
+        "title": "Next-Gen MicroLED Displays Eliminate Burn-In While Delivering 5,000 Nits Brightness",
+        "description": "Display manufacturers have solved commercial transfer bottlenecks, clearing the way for razor-sharp, ultra-bright AR glasses and laptop screens.",
+        "url": "https://theverge.com/microled-display-breakthrough-brightness",
+        "urlToImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T17:44:56.801Z",
+        "content": "Each pixel is an inorganic microscopic light-emitting diode with a lifetime exceeding 100,000 operating hours under full peak luminance..."
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Robotics Review",
+        "title": "Bipedal Warehouse Robots Achieve Autonomous 24-Hour Duty Cycles with Zero Collisions",
+        "description": "Equipped with end-to-end vision-language-action neural policies, humanoid logistics bots now sort and pack irregular cargo with human-grade agility.",
+        "url": "https://wired.com/humanoid-robotics-warehouse-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T13:44:56.801Z",
+        "content": "The robots autonomously navigate changing floor layouts, charge themselves using magnetic floor plates, and communicate directly with automated forklifts..."
+      },
+      {
+        "source": {
+          "id": "engadget",
+          "name": "Engadget"
+        },
+        "author": "Consumer Tech",
+        "title": "Foldable Phone Hinge Redesign Promises Zero Crease and Water Submersion Resistance",
+        "description": "New liquid metal teardrop hinges and flexible ultra-thin glass allow next-generation foldable smartphones to close completely flat without creasing.",
+        "url": "https://engadget.com/foldable-hinge-no-crease-water-resistant",
+        "urlToImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T09:44:56.801Z",
+        "content": "Mechanical stress tests verified over 500,000 folding cycles at temperatures ranging from -20°C to 50°C without screen delamination..."
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Developer Tools",
+        "title": "Native WebAssembly Compilers Achieve Parity with Bare-Metal C++ Execution Speeds",
+        "description": "Browser engines have rolled out new SIMD extensions and ahead-of-time JIT pipelines, allowing intensive 3D CAD and gaming engines to run at 120 FPS inside tabs.",
+        "url": "https://arstechnica.com/software/webassembly-bare-metal-performance",
+        "urlToImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T05:44:56.801Z",
+        "content": "Benchmarking suites demonstrated computational overhead below 2% compared to native desktop executables across complex matrix math workloads..."
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Startup Wire",
+        "title": "Autonomous Drone Delivery Network Approved for Commercial Urban Grocery Drop-Offs",
+        "description": "Aviation authorities issued nationwide operating certificates to quiet-rotor delivery drones capable of gently lowering packages into residential backyards.",
+        "url": "https://techcrunch.com/drone-delivery-urban-approval",
+        "urlToImage": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T01:44:56.801Z",
+        "content": "Equipped with acoustic silencing acoustic shrouds, the drones emit less noise than a passing electric car during low-altitude hover drops..."
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Smart Home",
+        "title": "Matter 2.0 Smart Home Standard Unifies Cameras, Energy Meters, and Robot Vacuums",
+        "description": "The open smart home alliance released its biggest specification update yet, providing local, cloud-independent device interoperability across brands.",
+        "url": "https://theverge.com/smart-home-matter-update-cameras",
+        "urlToImage": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T21:44:56.801Z",
+        "content": "Users can now control security video feeds and monitor solar inverter outputs seamlessly from any smartphone without manufacturer-specific subscription apps..."
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Future Computing",
+        "title": "Photonic Chip Uses Laser Light Instead of Copper Wiring to Process AI Prompts at 10x Speed",
+        "description": "Silicon photonics startups showcased optical tensor accelerators that compute neural weights at the speed of light while generating almost no heat.",
+        "url": "https://wired.com/photonic-chip-laser-ai-accelerator",
+        "urlToImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T17:44:56.801Z",
+        "content": "Data centers testing optical interconnects report a 90% reduction in cooling energy requirements alongside ten-fold throughput surges..."
+      }
+    ],
+    "business": [
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Markets Team",
+        "title": "Global Markets Rally as Inflation Cools and Manufacturing Activity Rebounds",
+        "description": "Equities surged across Asian, European, and American exchanges after purchasing manager indexes reported solid expansion across electronics and consumer sectors.",
+        "url": "https://bloomberg.com/news/markets-rally-inflation-cools",
+        "urlToImage": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T04:44:56.801Z",
+        "content": "Treasury yields retreated as bond traders adjusted monetary expectations, encouraging robust capital inflows into innovation and infrastructure equities..."
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": "Corporate Mergers Desk",
+        "title": "Renewable Power Producers Form Multi-Billion Grid Transmission Venture",
+        "description": "A consortium of utility giants committed $24 billion to construct high-voltage direct-current transmission lines connecting offshore wind arrays to industrial corridors.",
+        "url": "https://ft.com/companies/renewable-power-grid-joint-venture",
+        "urlToImage": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T02:44:56.801Z",
+        "content": "The planned interconnectors will eliminate transmission bottlenecks, lowering wholesale electricity pricing across three major regional grids..."
+      },
+      {
+        "source": {
+          "id": "wall-street-journal",
+          "name": "Wall Street Journal"
+        },
+        "author": "Enterprise Finance",
+        "title": "Fintech Startups Expand Instant Cross-Border Remittance Networks with Zero Margins",
+        "description": "New regulatory sandboxes and real-time settlement rails have cut immigrant remittance fees from 6% to under 0.5%, unlocking billions in disposable family income.",
+        "url": "https://wsj.com/articles/fintech-cross-border-remittance-expansion",
+        "urlToImage": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T00:44:56.801Z",
+        "content": "Direct bank-to-wallet integration between North America, Asia, and Latin America now processes transactions within two seconds round the clock..."
+      },
+      {
+        "source": {
+          "id": "cnbc",
+          "name": "CNBC"
+        },
+        "author": "Commercial Real Estate",
+        "title": "Urban Core Conversions Transform Empty Commercial Towers into Vibrant Mixed-Use Lofts",
+        "description": "Tax incentive packages and rapid architectural retrofits have turned vacant downtown office buildings into affordable residential housing, daycare facilities, and community parks.",
+        "url": "https://cnbc.com/real-estate/urban-office-tower-residential-conversions",
+        "urlToImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T22:44:56.801Z",
+        "content": "Downtown business improvement districts report a 25% increase in foot traffic and restaurant revenues following the arrival of thousands of residential tenants..."
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Commodities Wire",
+        "title": "Global Copper and Lithium Supplies Stabilize as Advanced Recycling Plants Go Online",
+        "description": "Closed-loop battery recycling facilities recovered over 95% of critical battery metals from decommissioned EVs, dampening mining price volatility.",
+        "url": "https://bloomberg.com/commodities/copper-lithium-recycling-supply-surge",
+        "urlToImage": "https://images.unsplash.com/photo-1618042164219-62c820f10723?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T19:44:56.801Z",
+        "content": "Automakers signed direct long-term contracts with hydrometallurgical refiners to supply recycled cathode materials for next-generation vehicle fleets..."
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Retail & Consumer",
+        "title": "Consumer Confidence Index Climbs to Two-Year Peak Amid Robust Job Creation",
+        "description": "Surveys show households are accelerating discretionary spending and travel bookings as wage gains continue to outpace living costs across key metros.",
+        "url": "https://reuters.com/business/consumer-confidence-index-high",
+        "urlToImage": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T15:44:56.801Z",
+        "content": "Retailers reported early seasonal inventory turnover hit multi-year records, led by sustainable apparel, smart home electronics, and outdoor gear..."
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": "Banking & Lending",
+        "title": "Small Business Lending Rebounds with Automated AI Underwriting Approvals",
+        "description": "Community banks and credit unions are approving micro-loans to main-street merchants in minutes by looking at real-time cash flow rather than rigid credit scores.",
+        "url": "https://ft.com/small-business-lending-ai-approvals",
+        "urlToImage": "https://images.unsplash.com/photo-1556742049-0a67e5572244?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T11:44:56.801Z",
+        "content": "Default rates among algorithmically verified merchants fell 30% below historical averages, proving the resilience of agile local entrepreneurs..."
+      },
+      {
+        "source": {
+          "id": "wall-street-journal",
+          "name": "Wall Street Journal"
+        },
+        "author": "Venture Capital",
+        "title": "Clean Industrial Tech Startups Attract $18 Billion in Series B and C Growth Rounds",
+        "description": "Investors are channeling massive capital into green steel, carbon-negative cement, and thermal energy storage solutions capable of decarbonizing heavy manufacturing.",
+        "url": "https://wsj.com/venture-capital-green-industrial-tech",
+        "urlToImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T07:44:56.801Z",
+        "content": "Venture firms noted that industrial corporate partners are co-investing alongside financial funds, securing immediate customer pipelines for new pilot plants..."
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Aviation Economics",
+        "title": "Commercial Air Freight Modernization Lowers E-Commerce Shipping Costs by 20%",
+        "description": "Automated wide-body cargo conversions and digital route tracking have boosted air cargo load factors, speeding cross-continental delivery guarantees.",
+        "url": "https://bloomberg.com/air-freight-ecommerce-shipping-boost",
+        "urlToImage": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T03:44:56.801Z",
+        "content": "Major international parcel carriers reported on-time fulfillment rates eclipsed 99.4% throughout the busy late summer shopping season..."
+      },
+      {
+        "source": {
+          "id": "cnbc",
+          "name": "CNBC"
+        },
+        "author": "Tech Investing",
+        "title": "SaaS Multiples Re-Rate Upward as Generative Code Generation Slashes Operating Margins",
+        "description": "Software enterprises are demonstrating record operating leverage by employing automated testing and code generation to release features with smaller engineering overhead.",
+        "url": "https://cnbc.com/saas-multiples-rerate-code-generation",
+        "urlToImage": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T23:44:56.801Z",
+        "content": "Financial analysts raised median margin targets across mid-cap enterprise software vendors by 450 basis points for the upcoming fiscal calendar..."
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Agribusiness",
+        "title": "Precision Agricultural Drones and Soil Sensors Yield Record Wheat Harvests with 40% Less Water",
+        "description": "Farming cooperatives adopting satellite-guided variable-rate irrigation reported record bushel yields despite regional drought conditions.",
+        "url": "https://reuters.com/business/agriculture-precision-drones-harvest",
+        "urlToImage": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T19:44:56.801Z",
+        "content": "Commodity grain futures dipped as global supply estimates expanded, easing food inflation pressures across import-dependent nations..."
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": "Automotive Industry",
+        "title": "Electric Vehicle Parity Milestone Reached as Median EV Costs Drop Below Gas Equivalents",
+        "description": "Plummeting battery cell costs and unified gigacasting vehicle frames have enabled multiple automakers to retail long-range electric compacts under $25,000.",
+        "url": "https://ft.com/electric-vehicle-price-parity-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T15:44:56.801Z",
+        "content": "Dealership inventories for affordable clean hatchbacks and family crossovers are turning over within four days of arriving on showroom floors..."
+      }
+    ],
+    "sports": [
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Championship Desk",
+        "title": "Thrilling Extra-Time Stoppage Winner Crowns Continental Football Champions",
+        "description": "In an unforgettable final witnessed by 75,000 roaring fans, a spectacular 94th-minute curling volley sealed an exhilarating 3-2 victory.",
+        "url": "https://espn.com/soccer/continental-football-championship-final",
+        "urlToImage": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T05:44:56.801Z",
+        "content": "The underdog squad resisted fierce offensive pressure throughout the second half before executing a picture-perfect counterattack in stoppage time..."
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": "Grand Slam Review",
+        "title": "Young Tennis Prodigy Becomes Youngest Player to Claim Hard Court Major Title",
+        "description": "Displaying remarkable court composure and 130mph baseline serves, the 19-year-old sensation dominated the final set 6-2 to lift their inaugural Grand Slam trophy.",
+        "url": "https://bbcsport.com/tennis/grand-slam-hard-court-championship",
+        "urlToImage": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T03:44:56.801Z",
+        "content": "Standing ovations echoed across the stadium as the champion credited relentless endurance training and mental focus routines for the milestone triumph..."
+      },
+      {
+        "source": {
+          "id": "the-athletic",
+          "name": "The Athletic"
+        },
+        "author": "Basketball Analytics",
+        "title": "Record-Breaking Scoring Streak Highlights Evolution of Pace-and-Space Offense",
+        "description": "With triple-double averages soaring and three-point accuracy reaching all-time peaks, analysts explore the tactical innovations driving modern basketball excitement.",
+        "url": "https://theathletic.com/basketball/pace-and-space-scoring-surge",
+        "urlToImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T01:44:56.801Z",
+        "content": "Coaching staffs are utilizing biometric tracking and shot-quality algorithms to optimize court spacing and player rotational recovery during high-tempo schedules..."
+      },
+      {
+        "source": {
+          "id": "skysports",
+          "name": "Sky Sports"
+        },
+        "author": "Motorsport Wire",
+        "title": "Formula 1 Unveils New Aerodynamic Rules and Sustainable Fuel Regulations for 2026 Season",
+        "description": "The sport moves to 100% advanced drop-in synthetic biofuels paired with active aerodynamics to dramatically enhance wheel-to-wheel overtaking.",
+        "url": "https://skysports.com/f1/aerodynamic-rules-sustainable-biofuels",
+        "urlToImage": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T23:44:56.801Z",
+        "content": "Engineers from top constructor teams have reported encouraging dyno test figures, confirming matching horsepower outputs with zero fossil carbon emissions..."
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Baseball Bureau",
+        "title": "Perfect Game Pitched with Immaculate 27 Strikeouts in Legendary Ballpark Feat",
+        "description": "A masterclass of sweeping sliders and 101mph pinpoint fastballs produced the greatest pitching performance in modern baseball history.",
+        "url": "https://espn.com/mlb/historic-perfect-game-pitching-record",
+        "urlToImage": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T20:44:56.801Z",
+        "content": "Baseball historians confirmed the starter threw only 98 total pitches, keeping hitters off balance with unprecedented late movement..."
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": "Athletics & Track",
+        "title": "Marathon World Record Shattered by Over One Minute in Fast-Paced Autumn Race",
+        "description": "Aided by carbon-composite running flats and precision fueling pacers, the distance legend crossed the finish line in a historic 1 hour, 58 minutes.",
+        "url": "https://bbcsport.com/athletics/marathon-world-record-shattered",
+        "urlToImage": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T16:44:56.801Z",
+        "content": "Crowds along the final boulevard erupted in celebrations as split times revealed an astonishing 4-minute 30-second average mile pace throughout..."
+      },
+      {
+        "source": {
+          "id": "the-athletic",
+          "name": "The Athletic"
+        },
+        "author": "Combat Sports",
+        "title": "Undisputed Heavyweight Boxing Title Unification Delivers 12 Rounds of Non-Stop Drama",
+        "description": "Both champions traded thunderous combinations until the final bell, culminating in a razor-thin split decision before 90,000 spectators.",
+        "url": "https://theathletic.com/boxing/undisputed-heavyweight-title-unification",
+        "urlToImage": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T12:44:56.801Z",
+        "content": "Pundits hailed the bout as the fiercest heavyweight clash of the decade, with both fighters pledging an immediate rematch clause for spring..."
+      },
+      {
+        "source": {
+          "id": "skysports",
+          "name": "Sky Sports"
+        },
+        "author": "Rugby Union",
+        "title": "Dramatic Drop Goal in Final Play Decides Six-Nation International Rugby Derby",
+        "description": "Under heavy rain and relentless defensive pressure, the fly-half slotted a 45-meter drop goal as the stadium clock hit 82 minutes.",
+        "url": "https://skysports.com/rugby/six-nations-dramatic-drop-goal-victory",
+        "urlToImage": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T08:44:56.801Z",
+        "content": "The winning kick sent traveling supporters into delirium, preserving the national team’s unbeaten championship run for another year..."
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Extreme Sports",
+        "title": "15-Year-Old Skateboarder Lands First Ever 1260-Degree Air in Competition",
+        "description": "The jaw-dropping three-and-a-half rotation spin on the mega-ramp scored an unprecedented perfect 100 from judges, revolutionizing the sport.",
+        "url": "https://espn.com/action-sports/1260-skateboard-record-landed",
+        "urlToImage": "https://images.unsplash.com/photo-1520045892732-304bc3ac5d8e?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T04:44:56.801Z",
+        "content": "Fellow competitors rushed the vert ramp deck in celebration, lifting the young athlete on their shoulders following the clean four-wheel landing..."
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": "Cycling Desk",
+        "title": "Solo Mountain Stage Breakaway Clinches Grand Tour Yellow Jersey Victory",
+        "description": "Attacking 70 kilometers from the summit finish, the climber navigated alpine switchbacks at breathless speeds to overturn a two-minute deficit.",
+        "url": "https://bbcsport.com/cycling/grand-tour-alpine-breakaway-triumph",
+        "urlToImage": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T00:44:56.801Z",
+        "content": "Sports directors applauded the audacious tactical gamble, which caught the peloton off guard during freezing high-altitude precipitation..."
+      },
+      {
+        "source": {
+          "id": "the-athletic",
+          "name": "The Athletic"
+        },
+        "author": "Golf Digest",
+        "title": "Historic Eagle on the 72nd Hole Seals Dramatic Major Championship Comeback",
+        "description": "A 240-yard hybrid shot over the water hazard settled three feet from the pin, setting up the winning putt in a thrilling Sunday gallery spectacle.",
+        "url": "https://theathletic.com/golf/major-championship-72nd-hole-eagle",
+        "urlToImage": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T20:44:56.801Z",
+        "content": "Fans erupted around the natural amphitheater surrounding the 18th green as the champion raised the coveted trophy aloft..."
+      },
+      {
+        "source": {
+          "id": "skysports",
+          "name": "Sky Sports"
+        },
+        "author": "Cricket Wire",
+        "title": "Sensational Last-Ball Boundary Decides Thrilling World T20 Super Over Clash",
+        "description": "Needing five runs off the final delivery, an audacious reverse ramp shot sailed into the stands to trigger wild stadium jubilation.",
+        "url": "https://skysports.com/cricket/t20-world-cup-super-over-thriller",
+        "urlToImage": "https://images.unsplash.com/photo-1531415074868-036b1c57e329?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T16:44:56.801Z",
+        "content": "Commentators called it one of the most electric atmospheres in tournament history, with both teams scoring matching totals through 40 overs..."
+      }
+    ],
+    "entertainment": [
+      {
+        "source": {
+          "id": "variety",
+          "name": "Variety"
+        },
+        "author": "Cinema & Awards Bureau",
+        "title": "Sci-Fi Epic Sweeps Film Festival with Groundbreaking Practical Effects and Score",
+        "description": "Standing ovations lasted fifteen minutes at the premiere as critics lauded the practical cinematography, emotional storytelling, and stellar ensemble performances.",
+        "url": "https://variety.com/film/sci-fi-epic-sweeps-festival-awards",
+        "urlToImage": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T04:44:56.801Z",
+        "content": "Director and cast detailed the multi-month location shoots in Iceland and the Canary Islands, choosing real physical sets over virtual CGI stages..."
+      },
+      {
+        "source": {
+          "id": "rolling-stone",
+          "name": "Rolling Stone"
+        },
+        "author": "Music Trends",
+        "title": "Global Acoustic Folk and Neo-Soul Revival Dominates Streaming Charts",
+        "description": "Listeners are flocking to intimate live instrumentation and acoustic storytelling, propelling independent singer-songwriters to billboard summits.",
+        "url": "https://rollingstone.com/music/acoustic-folk-neo-soul-streaming-revival",
+        "urlToImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T02:44:56.801Z",
+        "content": "Vinyl LP pressings continue to set all-time highs as audiophiles seek authentic warmth and tactile connections with album liner art..."
+      },
+      {
+        "source": {
+          "id": "hollywood-reporter",
+          "name": "The Hollywood Reporter"
+        },
+        "author": "Streaming Industry",
+        "title": "Interactive Narrative Series Let Viewers Shape Characters and Plot Twists",
+        "description": "A new wave of cinematic interactive television merges high-budget narrative drama with viewer decision trees, creating hundreds of customized viewing journeys.",
+        "url": "https://hollywoodreporter.com/tv/interactive-narrative-streaming-series",
+        "urlToImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T00:44:56.801Z",
+        "content": "Audiences can vote live during premiere broadcasts or explore alternate timelines on-demand, redefining communal weekend entertainment..."
+      },
+      {
+        "source": {
+          "id": "deadline",
+          "name": "Deadline"
+        },
+        "author": "Stage & Theatre",
+        "title": "West End and Broadway Theatres Report Record Global Attendance in Renaissance Season",
+        "description": "Original musicals and innovative revivals of literary classics drew over 15 million patrons this season, generating unprecedented economic revitalization in cultural districts.",
+        "url": "https://deadline.com/broadway-west-end-record-attendance-season",
+        "urlToImage": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T21:44:56.801Z",
+        "content": "Youth ticket subsidy programs have successfully introduced hundreds of thousands of first-time attendees to orchestral music and live theatrical arts..."
+      },
+      {
+        "source": {
+          "id": "variety",
+          "name": "Variety"
+        },
+        "author": "Animation Desk",
+        "title": "Hand-Drawn Animated Masterpiece Sets Global Box Office Record for Independent Studio",
+        "description": "Fusing traditional cel watercolor backgrounds with subtle depth-of-field lighting, the poetic fantasy fairy tale captivated moviegoers of all ages worldwide.",
+        "url": "https://variety.com/animation/hand-drawn-masterpiece-box-office-record",
+        "urlToImage": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T17:44:56.801Z",
+        "content": "Film critics praised the studio for preserving analog craft, noting that every single frame was hand-inked by master artisans over a five-year production..."
+      },
+      {
+        "source": {
+          "id": "rolling-stone",
+          "name": "Rolling Stone"
+        },
+        "author": "Concert Industry",
+        "title": "Eco-Friendly Stadium Tour Generates 100% Solar-Powered Audio and Light Spectacles",
+        "description": "Major arena pop tour utilizes modular battery banks recharged by venue solar roofs, proving zero-emission rock tours are commercially viable.",
+        "url": "https://rollingstone.com/music/solar-powered-stadium-tour-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T13:44:56.801Z",
+        "content": "Audience kinetic dance tiles in the standing room general admission pit generated an additional 5% of total stage lighting energy..."
+      },
+      {
+        "source": {
+          "id": "hollywood-reporter",
+          "name": "The Hollywood Reporter"
+        },
+        "author": "Documentary Review",
+        "title": "Deep-Ocean Wildlife Documentary Reveals First 8K Footage of Abyssal Creatures",
+        "description": "Ten years in the making, camera crews submerged in titanium spheres captured bioluminescent mating dances four miles beneath the Pacific surface.",
+        "url": "https://hollywoodreporter.com/documentary-ocean-8k-footage",
+        "urlToImage": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T09:44:56.801Z",
+        "content": "Marine biologists confirmed the documentary team documented eleven previously unclassified cephalopods and siphonophore colonies..."
+      },
+      {
+        "source": {
+          "id": "deadline",
+          "name": "Deadline"
+        },
+        "author": "Literary Adaptations",
+        "title": "Classic Fantasy Epic Adaptation Greenlit for Five-Season Cinematic Universe",
+        "description": "Showrunners announced filming will commence across New Zealand and Scotland with practical armor sets and an orchestral score composed by award-winning maestros.",
+        "url": "https://deadline.com/fantasy-epic-adaptation-five-season-universe",
+        "urlToImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T05:44:56.801Z",
+        "content": "The production has pledged to construct permanent heritage villages that will be donated to local tourism boards following principal photography..."
+      },
+      {
+        "source": {
+          "id": "variety",
+          "name": "Variety"
+        },
+        "author": "Gaming & Culture",
+        "title": "Open-World Fantasy Role-Playing Game Sells 20 Million Copies in Debut Weekend",
+        "description": "Praised for emergent physics, handcrafted side quests, and zero predatory microtransactions, the epic RPG captivated gaming communities globally.",
+        "url": "https://variety.com/gaming/open-world-rpg-record-debut-sales",
+        "urlToImage": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T01:44:56.801Z",
+        "content": "Player retention stats showed an average playthrough of 45 hours during launch week, with millions sharing organic gameplay clips on social feeds..."
+      },
+      {
+        "source": {
+          "id": "rolling-stone",
+          "name": "Rolling Stone"
+        },
+        "author": "Classical Music",
+        "title": "Youth Symphony Orchestra Wins Prestigious World Award for Reimagining Modern Masterworks",
+        "description": "Composed entirely of musicians under age 22, the ensemble blended classical brass sections with electronic ambient soundscapes in sold-out concert halls.",
+        "url": "https://rollingstone.com/music/youth-symphony-orchestra-prestigious-award",
+        "urlToImage": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T21:44:56.801Z",
+        "content": "The recording received a five-star rating across major international arts journals, celebrating the bold bridge between orchestral tradition and modern melody..."
+      },
+      {
+        "source": {
+          "id": "hollywood-reporter",
+          "name": "The Hollywood Reporter"
+        },
+        "author": "Streaming Series",
+        "title": "Mystery Whodunit Thriller Claims Number One Spot in 92 Countries Simultaneously",
+        "description": "Featuring an ingenious locked-room premise and unexpected plot revelations, the six-episode miniseries sparked global watercooler discussions.",
+        "url": "https://hollywoodreporter.com/tv/mystery-whodunit-thriller-global-number-one",
+        "urlToImage": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T17:44:56.801Z",
+        "content": "Viewer completion rates reached an unprecedented 94%, with fans dissecting background set clues and costume easter eggs across online forums..."
+      },
+      {
+        "source": {
+          "id": "deadline",
+          "name": "Deadline"
+        },
+        "author": "Comedy & Standup",
+        "title": "Charity Comedy Festival Raises $40 Million for Pediatric Healthcare Centers",
+        "description": "Top international comedians took the stage for a marathon 12-hour broadcast, uniting millions of online donors for community children’s hospitals.",
+        "url": "https://deadline.com/charity-comedy-festival-pediatric-fundraiser",
+        "urlToImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T13:44:56.801Z",
+        "content": "Organizers confirmed all proceeds will directly fund neonatal intensive care incubators and specialized pediatric medical research..."
+      }
+    ],
+    "science": [
+      {
+        "source": {
+          "id": "new-scientist",
+          "name": "New Scientist"
+        },
+        "author": "Deep Space Mission Team",
+        "title": "Space Telescope Detects Chemical Signatures of Liquid Oceans on Exoplanet Candidate",
+        "description": "Spectroscopic analysis of an Earth-sized world orbiting in the habitable zone revealed atmospheric water vapor and carbon dioxide balance indicative of temperate surface oceans.",
+        "url": "https://newscientist.com/space/exoplanet-liquid-ocean-signatures",
+        "urlToImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T04:44:56.801Z",
+        "content": "Astrophysicists confirmed the planetary system sits roughly 48 light-years away, making it an ideal candidate for targeted high-resolution imaging observations..."
+      },
+      {
+        "source": {
+          "id": "nature",
+          "name": "Nature Research"
+        },
+        "author": "Genetics Institute",
+        "title": "Targeted Epigenetic Reprogramming Reverses Cellular Age Biomarkers in Mammalian Tissues",
+        "description": "Biologists demonstrated that temporary activation of non-mutagenic Yamanaka factors restored youthful elasticity and mitochondrial efficiency in aged organ models.",
+        "url": "https://nature.com/articles/epigenetic-reprogramming-cellular-age-reversal",
+        "urlToImage": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T02:44:56.801Z",
+        "content": "The breakthrough bypasses the risk of oncogenic mutation, opening therapeutic avenues for treating macular degeneration and chronic cardiovascular stiffening..."
+      },
+      {
+        "source": {
+          "id": "scientific-american",
+          "name": "Scientific American"
+        },
+        "author": "Oceanographic Survey",
+        "title": "Deep Sea Autonomous Submersibles Discover Thousands of Unknown Marine Species in Abyssal Plains",
+        "description": "High-definition robotic exploration of sub-sea trenches revealed bioluminescent ecosystems thriving under immense pressures around mineral thermal vents.",
+        "url": "https://scientificamerican.com/ocean/abyssal-species-discovery",
+        "urlToImage": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T23:44:56.801Z",
+        "content": "Marine microbiologists have isolated unique heat-resistant enzymes from deep vent bacteria that could revolutionize sustainable industrial bioremediation..."
+      },
+      {
+        "source": {
+          "id": "phys-org",
+          "name": "Phys.org"
+        },
+        "author": "Clean Energy Physics",
+        "title": "Compact Magnetic Confinement Fusion Device Sustains Continuous High-Density Plasma for 20 Minutes",
+        "description": "Using high-temperature superconducting magnet coils, physicists achieved stable burning plasma conditions without turbulent wall degradation.",
+        "url": "https://phys.org/physics/compact-magnetic-confinement-fusion-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T19:44:56.801Z",
+        "content": "The experimental run validated predictive fluid-dynamic simulations, confirming engineering designs for the upcoming pilot fusion grid generator..."
+      },
+      {
+        "source": {
+          "id": "new-scientist",
+          "name": "New Scientist"
+        },
+        "author": "Paleontology Desk",
+        "title": "Immaculately Preserved Dinosaur Feather Fossil Yields Intact Pigment Nanostructures",
+        "description": "Electron microscope scanning revealed vivid iridescent color patterns in 120-million-year-old feathers, solving longstanding questions about prehistoric plumage.",
+        "url": "https://newscientist.com/paleontology/dinosaur-feather-fossil-pigment-discovery",
+        "urlToImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T15:44:56.801Z",
+        "content": "The structural melanosomes produced shimmering emerald and cobalt tones similar to modern hummingbirds, suggesting complex visual mating displays..."
+      },
+      {
+        "source": {
+          "id": "nature",
+          "name": "Nature Research"
+        },
+        "author": "Atmospheric Physics",
+        "title": "Stratospheric Lidar Measurements Confirm Historic Healing of Antarctic Ozone Layer",
+        "description": "Unprecedented satellite and balloon data verify the seasonal ozone hole reached its smallest recorded area since international chlorofluorocarbon bans took effect.",
+        "url": "https://nature.com/articles/antarctic-ozone-layer-healing-milestone",
+        "urlToImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T11:44:56.801Z",
+        "content": "Atmospheric scientists projected full baseline recovery across both polar regions decades ahead of conservative climate modeling estimates..."
+      },
+      {
+        "source": {
+          "id": "scientific-american",
+          "name": "Scientific American"
+        },
+        "author": "Space Exploration",
+        "title": "Mars Rover Drills Subsurface Silica Core Containing Organic Chemical Fingerprints",
+        "description": "Analyzing lacustrine mudstone layers deposited billions of years ago in Jezero Crater, the rover rover rover detected aromatic hydrocarbon compounds.",
+        "url": "https://scientificamerican.com/space/mars-rover-silica-core-organic-compounds",
+        "urlToImage": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T07:44:56.801Z",
+        "content": "The sealed sample tubes will be among the priority payloads retrieved by the upcoming international Mars Sample Return return mission..."
+      },
+      {
+        "source": {
+          "id": "phys-org",
+          "name": "Phys.org"
+        },
+        "author": "Materials Science",
+        "title": "Room-Pressure Superconductor Candidate Synthesized Using Graphene-Intercalated Crystals",
+        "description": "Independent laboratories replicated zero-resistance electrical transport at temperatures accessible by standard dry-ice refrigeration units.",
+        "url": "https://phys.org/materials/superconductor-graphene-intercalated-crystals",
+        "urlToImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T03:44:56.801Z",
+        "content": "If scalable, the material could eliminate electrical grid transmission losses and democratize affordable medical magnetic resonance imaging..."
+      },
+      {
+        "source": {
+          "id": "new-scientist",
+          "name": "New Scientist"
+        },
+        "author": "Astrophysics",
+        "title": "Gravitational Wave Detectors Catch Inward Spiral of Supermassive Black Hole Binary",
+        "description": "Space-based interferometers measured ripples in spacetime generated by two monsters orbiting each other every three minutes prior to eventual coalescence.",
+        "url": "https://newscientist.com/space/gravitational-wave-supermassive-black-hole-binary",
+        "urlToImage": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T23:44:56.801Z",
+        "content": "The observation confirms predictions of general relativity under extreme gravitational curvatures and provides insights into cosmic galaxy mergers..."
+      },
+      {
+        "source": {
+          "id": "nature",
+          "name": "Nature Research"
+        },
+        "author": "Botany & Ecology",
+        "title": "Ancient Underground Fungal Networks Found to Regulate Entire Forest Carbon Exchanges",
+        "description": "Isotope tracing showed mycorrhizal networks actively redistribute nitrogen and moisture from mature trees to drought-stressed saplings miles away.",
+        "url": "https://nature.com/articles/mycorrhizal-fungal-network-forest-carbon",
+        "urlToImage": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T19:44:56.801Z",
+        "content": "Foresters are now adapting logging guidelines to preserve the fungal soil tapestry, enhancing wildfire resilience and natural forest regeneration..."
+      },
+      {
+        "source": {
+          "id": "scientific-american",
+          "name": "Scientific American"
+        },
+        "author": "Quantum Optics",
+        "title": "Entangled Photons Transmitted Across 1,200 Kilometers of Standard Fiber Optic Cables",
+        "description": "Using novel quantum repeaters that compensate for optical attenuation, physicists established unhackable quantum key distribution between major cities.",
+        "url": "https://scientificamerican.com/quantum/entangled-photons-fiber-optic-record",
+        "urlToImage": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T15:44:56.801Z",
+        "content": "The trial relied on standard commercial dark fiber already installed along railway corridors, proving nationwide quantum internet is physically feasible..."
+      },
+      {
+        "source": {
+          "id": "phys-org",
+          "name": "Phys.org"
+        },
+        "author": "Geophysics",
+        "title": "Seismic Wave Tomography Reveals Massive Freshwater Aquifers Underneath Continental Shelves",
+        "description": "Geophysicists mapped pristine freshwater reservoirs sealed beneath impermeable seabed clays off coastal regions, totaling billions of cubic meters.",
+        "url": "https://phys.org/geophysics/subsea-freshwater-aquifers-continental-shelf",
+        "urlToImage": "https://images.unsplash.com/photo-1498084393753-b411b2d26b34?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T11:44:56.801Z",
+        "content": "The deposits originated during Ice Age sea level regressions and could provide drought-stricken coastal cities with renewable emergency drinking water..."
+      }
+    ],
+    "health": [
+      {
+        "source": {
+          "id": "medical-news-today",
+          "name": "Medical News Today"
+        },
+        "author": "Clinical Trials Team",
+        "title": "Universal mRNA Vaccine Candidate for Seasonal Influenza Enters Phase 3 Multi-Center Trial",
+        "description": "The multi-epitope vaccine targets invariant stem regions of flu glycoproteins, designed to confer long-lasting protection across mutating influenza A and B strains.",
+        "url": "https://medicalnewstoday.com/clinical-trials/universal-mrna-flu-vaccine-phase3",
+        "urlToImage": "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T04:44:56.801Z",
+        "content": "Immunology centers across four continents will follow 40,000 enrolled volunteers over two winter seasons to measure neutralizing antibody durability..."
+      },
+      {
+        "source": {
+          "id": "healthline",
+          "name": "Healthline"
+        },
+        "author": "Neuroscience Review",
+        "title": "Non-Invasive Acoustic Stimulation Clears Toxic Protein Aggregates in Early Alzheimer Models",
+        "description": "Forty-hertz gamma sensory stimulation via rhythmic sound pulses and flickering light triggered brain microglial scavenger cells to clear amyloid plaque deposits.",
+        "url": "https://healthline.com/neuroscience/acoustic-stimulation-alzheimer-protein-clearing",
+        "urlToImage": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-26T02:44:56.801Z",
+        "content": "Clinical trial participants who received one hour of daily evening audio therapy showed sustained improvements in spatial memory and verbal recall scores..."
+      },
+      {
+        "source": {
+          "id": "webmd",
+          "name": "WebMD"
+        },
+        "author": "Preventative Cardiology",
+        "title": "Plant-Rich Polyphenol Diets Proven to Lower Biological Vascular Age by Six Years",
+        "description": "A 10-year longitudinal study following 25,000 adults found that diets high in berries, olive oil, leafy greens, and nuts dramatically preserve endothelial flexibility.",
+        "url": "https://webmd.com/cardiology/polyphenol-diet-vascular-age-reduction",
+        "urlToImage": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T23:44:56.801Z",
+        "content": "Vascular ultrasound scans demonstrated measurable reductions in arterial stiffness, independent of baseline blood pressure and genetic predisposition..."
+      },
+      {
+        "source": {
+          "id": "the-lancet",
+          "name": "The Lancet"
+        },
+        "author": "Global Wellness Report",
+        "title": "Targeted Circadian Light Exposure Drastically Enhances Sleep Quality and Workplace Productivity",
+        "description": "New clinical guidelines recommend tailored high-kelvin morning sunlight and amber evening wavelengths to restore natural melatonin cycles in remote and office workers.",
+        "url": "https://thelancet.com/wellness/circadian-light-exposure-sleep-quality",
+        "urlToImage": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T20:44:56.801Z",
+        "content": "Sleep researchers documented a 48% reduction in chronic insomnia symptoms when bedroom lighting was transitioned away from blue-spectrum LEDs after dusk..."
+      },
+      {
+        "source": {
+          "id": "medical-news-today",
+          "name": "Medical News Today"
+        },
+        "author": "Oncology Desk",
+        "title": "Personalized CAR-T Cell Therapy Achieves Sustained Remission in Refractory Lymphoma Trials",
+        "description": "Next-generation gene-edited T-cells equipped with dual antigen receptors successfully neutralized malignant B-cells without inducing severe cytokine release syndrome.",
+        "url": "https://medicalnewstoday.com/oncology/car-t-cell-therapy-remission-breakthrough",
+        "urlToImage": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T16:44:56.801Z",
+        "content": "All twenty enrolled patients in the phase 2 study achieved complete radiological clearance within six weeks of the outpatient cell infusion..."
+      },
+      {
+        "source": {
+          "id": "healthline",
+          "name": "Healthline"
+        },
+        "author": "Metabolic Health",
+        "title": "Oral Peptide Pill Mimics Fasting-Induced Longevity Pathways in Human Skeletal Muscle",
+        "description": "Bioengineers formulated a stable oral capsule that activates AMPK enzymes, prompting cellular autophagy and blood glucose regulation similar to strenuous exercise.",
+        "url": "https://healthline.com/nutrition/oral-peptide-fasting-metabolic-breakthrough",
+        "urlToImage": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T12:44:56.801Z",
+        "content": "Volunteers showed a 22% improvement in insulin sensitivity and marked drops in circulating triglyceride levels over an eight-week double-blind trial..."
+      },
+      {
+        "source": {
+          "id": "webmd",
+          "name": "WebMD"
+        },
+        "author": "Vision Science",
+        "title": "Nanoparticle Eye Drops Restore Natural Corneal Curvature in Patients with Presbyopia",
+        "description": "Biocompatible peptide crosslinking drops temporarily soften the natural lens, allowing middle-aged individuals to read fine text without reading spectacles.",
+        "url": "https://webmd.com/eye-health/nanoparticle-eye-drops-presbyopia-restoration",
+        "urlToImage": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T08:44:56.801Z",
+        "content": "One morning drop application maintained crisp 20/20 near vision for sixteen continuous hours without blurring intermediate or distance vision..."
+      },
+      {
+        "source": {
+          "id": "the-lancet",
+          "name": "The Lancet"
+        },
+        "author": "Microbiome Research",
+        "title": "High-Diversity Gut Probiotic Consortium Alleviates Systemic Autoimmune Inflammation",
+        "description": "A synthetic bacterial consortia of 18 commensal strains restored intestinal epithelial barrier integrity, substantially reducing rheumatoid arthritis flare-ups.",
+        "url": "https://thelancet.com/microbiome/gut-probiotic-consortium-autoimmune-relief",
+        "urlToImage": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T04:44:56.801Z",
+        "content": "Inflammatory biomarkers including C-reactive protein declined by an average of 42%, allowing several trial subjects to taper steroid medications..."
+      },
+      {
+        "source": {
+          "id": "medical-news-today",
+          "name": "Medical News Today"
+        },
+        "author": "Orthopedics",
+        "title": "3D-Bioprinted Cartilage Implants Fully Integrate with Native Knee Joints in Athletes",
+        "description": "Living chondrocyte scaffolds cultivated from patient cells successfully restored meniscus cushioning in sports injuries, preventing secondary osteoarthritis.",
+        "url": "https://medicalnewstoday.com/orthopedics/3d-bioprinted-cartilage-knee-joint-integration",
+        "urlToImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-25T00:44:56.801Z",
+        "content": "Magnetic resonance scans one year post-surgery demonstrated complete vascular and cellular assimilation with the patient’s natural femoral bone..."
+      },
+      {
+        "source": {
+          "id": "healthline",
+          "name": "Healthline"
+        },
+        "author": "Mental Health & Psychology",
+        "title": "Nature-Based Cognitive Therapy Outperforms Traditional Screen Breaks for Mental Fatigue",
+        "description": "Walking in urban parks with diverse tree canopy for just twenty minutes lowered salivary cortisol by 35% and dramatically boosted working memory.",
+        "url": "https://healthline.com/mental-health/nature-cognitive-therapy-mental-fatigue",
+        "urlToImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T20:44:56.801Z",
+        "content": "The psychological study highlighted that natural fractal patterns in leaves and bird songs allow the prefrontal cortex to replenish voluntary attention..."
+      },
+      {
+        "source": {
+          "id": "webmd",
+          "name": "WebMD"
+        },
+        "author": "Dentistry & Bone Health",
+        "title": "Enamel-Regenerating Toothpaste Forms Natural Hydroxyapatite Shield Over Sensitive Teeth",
+        "description": "A biomimetic mineral gel re-calcifies micro-cavities and seals exposed dentin tubules, eliminating temperature sensitivity within forty-eight hours.",
+        "url": "https://webmd.com/oral-health/enamel-regenerating-toothpaste-hydroxyapatite",
+        "urlToImage": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T16:44:56.801Z",
+        "content": "Clinical dental trials showed the re-hardened enamel layer proved more resistant to acidic beverage erosion than original natural tooth surfaces..."
+      },
+      {
+        "source": {
+          "id": "the-lancet",
+          "name": "The Lancet"
+        },
+        "author": "Public Health",
+        "title": "Global Tobacco Reduction Measures Prevent Estimated 12 Million Premature Deaths",
+        "description": "Comprehensive plain-packaging laws and smoking cessation clinic subsidies across sixty nations achieved record declines in smoking prevalence.",
+        "url": "https://thelancet.com/public-health/tobacco-reduction-prevented-deaths-record",
+        "urlToImage": "https://images.unsplash.com/photo-1527613426441-4da17471b66d?auto=format&fit=crop&w=1200&q=80",
+        "publishedAt": "2026-09-24T12:44:56.801Z",
+        "content": "Health ministries reported steep decreases in youth nicotine uptake and sharp reductions in cardiovascular emergency hospital admissions..."
+      }
+    ]
+  }
+}
