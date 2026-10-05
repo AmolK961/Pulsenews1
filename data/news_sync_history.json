@@ -1,0 +1,40 @@
+[
+  {
+    "id": "sync-1791192709774",
+    "triggeredBy": "client_react_5h",
+    "timestamp": "2026-10-05T09:31:49.774Z",
+    "categoriesUpdated": [
+      "general",
+      "business",
+      "technology",
+      "health",
+      "science",
+      "sports",
+      "entertainment"
+    ],
+    "totalArticlesCount": 242,
+    "newestArticleTitle": "Drew Rasmussen no-hits Yankees into 8th inning, Rays win ALDS opener - Tampa Bay Times",
+    "newestArticleTime": "2026-10-04T10:17:43Z",
+    "status": "success",
+    "durationMs": 1889
+  },
+  {
+    "id": "sync-1791192708300",
+    "triggeredBy": "server_cron_3h",
+    "timestamp": "2026-10-05T09:31:48.300Z",
+    "categoriesUpdated": [
+      "general",
+      "business",
+      "technology",
+      "health",
+      "science",
+      "sports",
+      "entertainment"
+    ],
+    "totalArticlesCount": 242,
+    "newestArticleTitle": "Drew Rasmussen no-hits Yankees into 8th inning, Rays win ALDS opener - Tampa Bay Times",
+    "newestArticleTime": "2026-10-04T10:17:43Z",
+    "status": "success",
+    "durationMs": 2199
+  }
+]

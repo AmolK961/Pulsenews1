@@ -28,12 +28,26 @@ import {
   updateActiveTransporter,
   getDeliveredEmails
 } from './src/services/emailService.ts';
+import { 
+  startMagazineScheduler, 
+  getSchedulerStatus, 
+  executeScheduledDispatch 
+} from './src/services/magazineScheduler.ts';
+import { 
+  startNewsSyncCron, 
+  runNewsSync, 
+  readSyncHistory 
+} from './src/services/newsSyncCron.ts';
 
 dotenv.config();
 
 // Ensure local JSON storage file exists immediately
 initializeMonthlyJsonFile();
 initializeSubscribersStore();
+
+// Start automated background tasks: 3-5h news sync and 7 AM/PM magazine dispatches
+startMagazineScheduler();
+startNewsSyncCron();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -1291,6 +1305,57 @@ app.post('/api/email/send-bulk', async (req: Request, res: Response) => {
   } catch (err: any) {
     console.error('Bulk email dispatch error:', err);
     res.status(500).json({ status: 'error', message: err.message || 'Bulk email dispatch failed' });
+  }
+});
+
+// 20. POST /api/news/sync - Trigger 5-hour news sync and return latest sorted articles
+app.post('/api/news/sync', async (req: Request, res: Response) => {
+  try {
+    const triggeredBy = req.body?.triggeredBy || 'client_react_5h';
+    const log = await runNewsSync(triggeredBy);
+    const store = readMonthlyNews();
+    
+    // Flatten and sort latest first
+    const allArticles: any[] = [];
+    Object.values(store.categories).forEach(arr => allArticles.push(...arr));
+    allArticles.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
+
+    res.json({
+      status: 'ok',
+      log,
+      totalArticles: allArticles.length,
+      articles: allArticles.slice(0, 60)
+    });
+  } catch (err: any) {
+    res.status(500).json({ status: 'error', message: err.message });
+  }
+});
+
+// 21. GET /api/news/sync-status - Get sync history and next run time
+app.get('/api/news/sync-status', (_req: Request, res: Response) => {
+  const history = readSyncHistory();
+  const store = readMonthlyNews();
+  res.json({
+    status: 'ok',
+    totalStoredArticles: store.totalArticles,
+    lastUpdated: store.lastUpdated,
+    history
+  });
+});
+
+// 22. GET /api/magazine/scheduler-status - Get automated dispatch rules & logs
+app.get('/api/magazine/scheduler-status', (_req: Request, res: Response) => {
+  res.json(getSchedulerStatus());
+});
+
+// 23. POST /api/magazine/trigger-scheduled-dispatch - Manually test any scheduled dispatch
+app.post('/api/magazine/trigger-scheduled-dispatch', async (req: Request, res: Response) => {
+  try {
+    const type = req.body?.type || 'daily_morning';
+    const entry = await executeScheduledDispatch(type);
+    res.json({ status: 'ok', entry });
+  } catch (err: any) {
+    res.status(500).json({ status: 'error', message: err.message });
   }
 });
 

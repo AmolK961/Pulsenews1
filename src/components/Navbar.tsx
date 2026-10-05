@@ -17,7 +17,9 @@ import {
   Laptop,
   BookOpen,
   User,
-  ShoppingBag
+  ShoppingBag,
+  Clock,
+  GitBranch
 } from 'lucide-react';
 
 interface NavbarProps {
@@ -40,6 +42,7 @@ interface NavbarProps {
   onOpenMagazineHub?: (category?: string) => void;
   onOpenMagazineSubscribe?: (category?: string) => void;
   onOpenDeals?: () => void;
+  onOpenAutomationSchedule?: () => void;
   isMonthlyArchive?: boolean;
   onToggleMonthlyArchive?: () => void;
   isTop10Overview?: boolean;
@@ -66,6 +69,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   onOpenMagazineHub,
   onOpenMagazineSubscribe,
   onOpenDeals,
+  onOpenAutomationSchedule,
   isMonthlyArchive = false,
   onToggleMonthlyArchive,
   isTop10Overview = false,
@@ -198,6 +202,21 @@ export const Navbar: React.FC<NavbarProps> = ({
                 <span className="hidden sm:inline">Deals</span>
                 <span className="px-1.5 py-0.2 rounded-md bg-amber-500 text-slate-950 text-[10px] font-black">
                   HOT
+                </span>
+              </button>
+            )}
+
+            {/* Automations & Magazine Schedules Button */}
+            {onOpenAutomationSchedule && (
+              <button
+                onClick={onOpenAutomationSchedule}
+                className="flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs font-semibold bg-gradient-to-r from-emerald-500/15 via-indigo-500/15 to-emerald-500/15 hover:from-emerald-500/25 hover:to-indigo-500/25 text-emerald-300 border border-emerald-500/40 transition cursor-pointer"
+                title="Automated Magazine Schedules (7 AM / 7 PM) & 5h Background News Sync"
+              >
+                <Clock className="w-3.5 h-3.5 text-emerald-400" />
+                <span className="hidden lg:inline">Automations</span>
+                <span className="px-1.5 py-0.2 rounded-md bg-emerald-500/20 text-emerald-300 text-[10px] font-bold border border-emerald-500/30">
+                  7AM/PM
                 </span>
               </button>
             )}
@@ -355,6 +374,18 @@ export const Navbar: React.FC<NavbarProps> = ({
               >
                 <ShoppingBag className="w-3.5 h-3.5 text-amber-400" />
                 <span>🔥 Tech Deals (70% Off)</span>
+              </button>
+            )}
+
+            {/* Automations Pill */}
+            {onOpenAutomationSchedule && (
+              <button
+                onClick={onOpenAutomationSchedule}
+                className="shrink-0 flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-semibold bg-gradient-to-r from-emerald-500/15 to-indigo-500/15 text-emerald-300 hover:text-white hover:bg-slate-900 border border-emerald-500/30 transition cursor-pointer"
+                title="Automated Magazine Schedules (7 AM/PM) & 5h Background Sync"
+              >
+                <Clock className="w-3.5 h-3.5 text-emerald-400" />
+                <span>⚙️ Automations (7 AM/PM)</span>
               </button>
             )}
 
