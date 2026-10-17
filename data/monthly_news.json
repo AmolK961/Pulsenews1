@@ -1,9 +1,177 @@
 {
   "month": "2026-09",
-  "lastUpdated": "2026-09-30T12:08:44.189Z",
-  "totalArticles": 133,
+  "lastUpdated": "2026-10-14T02:48:09.850Z",
+  "totalArticles": 214,
   "categories": {
     "general": [
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Riley Beggin",
+        "title": "Trump faces stiff bipartisan pushback to Russian diesel import deal - The Washington Post",
+        "description": "Moderate Republicans joined Democrats in criticizing President Donald Trump's agreement with Russian President Vladimir Putin to release diesel to the global market amid a fuel price spike.",
+        "url": "https://www.washingtonpost.com/business/2026/10/12/administration-agreed-temporarily-roll-back-sanctions-russian-diesel-an-effort-bring-down-fuel-prices/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GVWGVKZNSPTTH62DJPXKB32K7I.JPG&w=1440",
+        "publishedAt": "2026-10-13T01:04:52Z",
+        "content": "Amid strong bipartisan pushback to an agreement to import Russian oil, President Donald Trump defended the deal with Russian President Vladimir Putin. \r\nThe European Union paid Russia 250 Billion Dol… [+181 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Alice  Gainer, Jesse  Zanger",
+        "title": "Actress Selma Blair arrested after allegedly biting flight attendant, being restrained on flight from LAX to JFK, source says - CBS News",
+        "description": "Actress Selma Blair was arrested after an incident on board a Delta Air Lines flight from Los Angeles to John F. Kennedy International Airport Sunday night.",
+        "url": "https://www.cbsnews.com/newyork/news/selma-blair-arrested-incident-on-board-flight-from-lax-to-jfk/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/83a65190-e2a5-4dc1-aa30-18116ee05a43/thumbnail/1200x630/67f257786eb4c610419621d7d6e1d7de/ap26267065945595.jpg",
+        "publishedAt": "2026-10-13T00:57:27Z",
+        "content": "Actress Selma Blair was arrested after allegedly biting a flight attendant on board a Delta Air Lines flight from Los Angeles to New York's John F. Kennedy International Airport on Sunday night. Foll… [+3121 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers - Fox News",
+        "description": "Milwaukee's BABIP machine and unhittable bullpen put the Los Angeles Dodgers' three-peat hopes on life support with a commanding 2-0 NLCS lead.",
+        "url": "https://www.foxnews.com/outkick-sports/dodgers-dynasty-brink-milwaukee-babip-machine-dials-another-win-brewers",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/brice-turang-brewers-rbi-base-hit-fox-news_.jpg",
+        "publishedAt": "2026-10-13T00:48:40Z",
+        "content": "Game 2 of the National League Championship Series on Monday afternoon was a must-win for the Los Angeles Dodgers.\r\nDespite widespread perception that the Dodgers are the unbeatable superteam, it was … [+7035 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Steve Hendrix",
+        "title": "U.K. prime minister accuses Russia of meddling in Brexit vote - The Washington Post",
+        "description": "Officials scrambled to clarify that Andy Burnham’s remarks did not mean the government rejected the outcome of the controversial 2016 referendum.",
+        "url": "https://www.washingtonpost.com/world/2026/10/12/uk-prime-minister-accuses-russia-meddling-brexit-vote/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UYV33T3C3TMIKUOS2UX6XBGVTM.jpg&w=1440",
+        "publishedAt": "2026-10-13T00:05:55Z",
+        "content": "LONDON Prime Minister Andy Burnham sparked fury in Britain on Monday with his assertion that Russia had sought to interfere in the 2016 Brexit vote that took the country out of the European Union, br… [+79 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "Cheyenne Haslett",
+        "title": "Trump ‘looking at’ firing Athens ambassador Guilfoyle over alleged plea for cash - Politico",
+        "description": "Asked if he was considering firing his Greek envoy, the president said, “We’re not happy.”",
+        "url": "https://www.politico.com/news/2026/10/12/kimberly-guilfoyle-trump-credit-card-payoff-01116311",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe6%2F9d%2F30445d9345648a3fef590ddcba3b%2Fgreece-us-rubio-598.jpg",
+        "publishedAt": "2026-10-12T23:38:00Z",
+        "content": "President Donald Trump said Monday he is considering firing U.S. Ambassador to Greece Kimberly Guilfoyle following reports that she pushed a donor to pay off a six-figure credit card bill.\r\nWere look… [+692 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Brian Osgood",
+        "title": "US archbishop says Catholics in army should not participate in firing squad - Al Jazeera",
+        "description": "Archbishop Timothy Broglio says US plan to livestream Fort Hood attacker’s execution is contrary to church teachings.",
+        "url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T155041Z_1888227381_RC2RLNA0ZT7Y_RTRMADP_3_USA-DEFENSE-POWS-1790718298.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-10-12T23:27:15Z",
+        "content": "United States Archbishop Timothy Broglio has urged Catholics who are members of the countrys armed forces not to take part in a planned public execution by firing squad, saying that it violates the t… [+4210 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Jared Dubin",
+        "title": "Rams vs. Bills prediction, odds: Matthew Stafford, Josh Allen clash in Week 5 'MNF' matchup - CBS Sports",
+        "description": "Here's how to watch Rams vs. Bills, along with the latest odds, key matchups and our Week 5 'Monday Night Football' prediction",
+        "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/12/e869e524-7a21-49cd-be6c-df8c4024fdfb/thumbnail/1200x675/9b9cdf6a1b297caa2def93cdafdf1c14/rams-bills.jpg",
+        "publishedAt": "2026-10-12T23:26:00Z",
+        "content": "In the Week 5 edition of \"Monday Night Football,\" the Los Angeles Rams host the Buffalo Bills.\r\nThe Rams are coming off a too-close-for-comfort win over the Philadelphia Eagles, having improved to 2-… [+7528 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Tamara Keith",
+        "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund - NPR",
+        "description": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5097x2867+0+265/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F5c%2F3f346e034949b36cd4c8b40fa6ce%2Fgettyimages-2299455893.jpg",
+        "publishedAt": "2026-10-12T22:16:47Z",
+        "content": "Ads promoting President Trump and his policies continued to be paid for by the U.S. government well after Trump announced he would have his MAGA Inc. super PAC take over funding the ads and kept airi… [+3550 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Alanna Durkin Richer, Eric Tucker",
+        "title": "Agents search Rep. Omar's Washington home in criminal probe as she vows she won't 'be silenced' - AP News",
+        "description": "Minnesota congresswoman Ilhan Omar says she will “not be silenced” and calls a search of her Washington home part of President Donald Trump’s “intimidation” campaign. House Democratic leaders are condemning the search of Omar’s home as an “abuse of power” by …",
+        "url": "https://apnews.com/article/ilhan-omar-home-searched-8e18c2aea948bd90f4d7a4eb32b9ec3a",
+        "urlToImage": "https://dims.apnews.com/dims4/default/bd2b4ca/2147483647/strip/true/crop/3614x2408+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2Fcf%2Fa53baea654b79a3d8de61957c2bd%2F4e5ce2d153ed42a28d9abe3060bc9920",
+        "publishedAt": "2026-10-12T22:06:00Z",
+        "content": "WASHINGTON (AP) Federal agents on Monday searched the home of Democratic U.S. Rep. Ilhan Omar, a startling escalation in a criminal investigation that brings renewed focus to the frequent target of T… [+7518 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "AI’s Giant Money Loop Is Drawing Foreign Cash Like 2008 - Bloomberg.com",
+        "description": "A circular funding model is accelerating the AI boom, but also amplifying imbalances — reviving memories of the global financial crisis",
+        "url": "https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeKTiTIwY54/v1/1200x800.jpg",
+        "publishedAt": "2026-10-12T21:00:03Z",
+        "content": "If you want to understand the way capital is flowing around the world right now and the new stress points forming, take a drive outside Washington to Loudoun County, Virginia. Two decades ago, it was… [+510 chars]",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire - BBC",
+        "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+        "url": "https://www.bbc.com/news/articles/cjx2359qekrdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6601/live/5861b070-c670-11f1-8c1b-356b863d8549.jpg",
+        "publishedAt": "2026-10-12T20:17:37Z",
+        "content": "\"The Kremlin, the president, has said many times before, we don't want a ceasefire, we want a lasting peace, and we're willing to do whatever's possible for that,\" Peskov said.",
+        "category": "general"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Sophia Compton",
+        "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
+        "description": "Starbucks is shutting down takeover speculation after a report said that the coffee giant had explored a potential deal for the burrito chain.",
+        "url": "https://www.foxbusiness.com/retail/starbucks-says-not-buying-chipotle-following-deal-speculation",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-12T20:12:00Z",
+        "content": "Starbucks is putting an end to speculation that it could acquire burrito chain Chipotle Mexican Grill.\r\nA Starbucks spokesperson confirmed to FOX Business on Monday that the coffee giant is not buyin… [+2421 chars]",
+        "category": "general"
+      },
       {
         "source": {
           "id": null,
@@ -456,6 +624,342 @@
       }
     ],
     "technology": [
+      {
+        "source": {
+          "id": null,
+          "name": "Gematsu"
+        },
+        "author": "Sal Romano",
+        "title": "PS5 Digital Edition Midnight Black Japan-only model launches November 19 - Gematsu",
+        "description": "Sony Interactive Entertainment Japan Asia will release “PlayStation 5 Digital Edition Midnight Black (Console Language: Japanese Only)” on November 19 in Japan for 55,000 yen (tax inclu…",
+        "url": "https://www.gematsu.com/2026/10/ps5-digital-edition-midnight-black-japan-only-model-launches-november-19",
+        "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/PS5-Digital-Edition-Black-Japan_10-12-26.jpg",
+        "publishedAt": "2026-10-13T01:24:38Z",
+        "content": "Sony Interactive Entertainment Japan Asia will release “PlayStation 5 Digital Edition Midnight Black (Console Language: Japanese Only)” on November 19 in Japan for 55,000 yen (tax included), the comp… [+831 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Samuel Axon",
+        "title": "After a 10-year redemption arc, No Man’s Sky is coming to the iPhone and iPad - Ars Technica",
+        "description": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+        "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg",
+        "publishedAt": "2026-10-12T20:26:14Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Ethan Gach",
+        "title": "Fans Accuse Sonic Racing: CrossWorlds Of Breaking Deluxe Edition Promise After Revealing FF7 DLC: 'Paid $100 For This Sh*t, Guess I Learned My Lesson' - Kotaku",
+        "description": "Players thought they'd be entitled to all of the year two racers as well",
+        "url": "https://kotaku.com/fans-accuse-sonic-racing-crossworlds-of-breaking-deluxe-edition-promise-after-revealing-ff7-dlc-paid-100-for-this-sht-guess-i-learned-my-lesson-2000744567",
+        "urlToImage": "https://kotaku.com/app/uploads/2026/10/sonic-crossworlds.jpg",
+        "publishedAt": "2026-10-12T20:01:53Z",
+        "content": "Sonic Racing: CrossWorlds is a great racing game with a ton of post-launch support. Unfortunately, the balance between bombarding players with new content and how it’s been monetized hasn’t been equa… [+2675 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GamesIndustry.biz"
+        },
+        "author": "Vikki Blake",
+        "title": "Epic Games delays Disney game and tells developers to go \"AI first\" - GamesIndustry.biz",
+        "description": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars…",
+        "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+        "urlToImage": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2026-10-12T19:54:58Z",
+        "content": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars franchises - and told developers to move to an \"AI first\" production model.\r\nAc… [+1752 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": "mashable",
+          "name": "Mashable"
+        },
+        "author": "Matt Binder",
+        "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
+        "description": "AI vibecoded apps are challenging big legacy software.",
+        "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/0341b7kCCG5QZAUHyZQDUbQ/hero-image.fill.size_1200x675.v1791829879.png",
+        "publishedAt": "2026-10-12T19:12:08Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ComicBook.com"
+        },
+        "author": "Tyler Fischer",
+        "title": "GTA 6 Leak Reveals Collector’s Map Reportedly Coming With Every Physical Copy - ComicBook.com",
+        "description": "A new GTA 6 leak has revealed Rockstar Games is planning a collector's map coming with every physical copy of the game.",
+        "url": "http://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-collectors-map/",
+        "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2026/06/g-t-a-6.png?resize=2000,1125",
+        "publishedAt": "2026-10-12T19:03:19Z",
+        "content": "A newGTA 6 leak has surfaced online, revealing a collector’s map supposedly coming with every physical copy. Unfortunately, while the leak reveals the existence of this collector’s map, it does not r… [+2506 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "iCloud+ keeps getting better, here’s what’s new for subscribers - 9to5Mac",
+        "description": "iCloud+ provides more than just extra storage, here’s everything new for iCloud+ subscribers as of the last few weeks.",
+        "url": "https://9to5mac.com/2026/10/12/icloud-keeps-getting-better-heres-whats-new-for-subscribers/",
+        "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
+        "publishedAt": "2026-10-12T18:56:00Z",
+        "content": "iCloud+ is best known for adding iCloud storage, but Apple keeps improving and expanding its suite of benefits for subscribers. Heres everything new for iCloud+ added in the last few weeks.\r\nIf you s… [+1722 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nature.com"
+        },
+        "author": null,
+        "title": "Award-winning microscopy image disqualified over AI use - Nature",
+        "description": "The incident has prompted discussions about the use of artificial intelligence in scientific imagery.",
+        "url": "https://www.nature.com/articles/d41586-026-03240-7",
+        "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03240-7/d41586-026-03240-7_53840270.jpg",
+        "publishedAt": "2026-10-12T18:33:45Z",
+        "content": "A winning video showing beating airway cilia has been disqualified from the Small World in Motion competition for failing to comply with competition rules.Credit: Ning Xu/Nikon Small World\r\nThe winni… [+2793 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GoNintendo"
+        },
+        "author": "rawmeatcowboy",
+        "title": "Former Nintendo employees say Elon Musk's SNL skit \"did not go over well\" with Nintendo - GoNintendo",
+        "description": "Wari-no-go",
+        "url": "https://gonintendo.com/contents/66008-former-nintendo-employees-say-elon-musk-s-snl-skit-did-not-go-over-well-with",
+        "urlToImage": "https://gonintendo.com/attachments/image/87436/file/medium-e1d02d6c44938b5d8e5b633284065509.jpg",
+        "publishedAt": "2026-10-12T18:26:43Z",
+        "content": "Nintendo often pops up in pop culture, being name-dropped in songs, parodied in movies, mentioned in TV shows and so on. More often than not Nintendo has nothing to do with these segments and spotlig… [+1159 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BGR"
+        },
+        "author": "Faith Leroux",
+        "title": "Here's How Much A PlayStation Cost In 1996 Vs. 2026 - BGR",
+        "description": "When the PlayStation 1 launched in 1995, it cost $300 before Sony dropped its price to $200 the following year, while the PlayStation 5 costs $900 now.",
+        "url": "https://www.bgr.com/2280551/how-much-playstation-cost-1996-vs-2026/",
+        "urlToImage": "https://www.bgr.com/img/gallery/heres-how-much-a-playstation-cost-in-1996-vs-2026/l-intro-1791402198.jpg",
+        "publishedAt": "2026-10-12T18:17:00Z",
+        "content": "We may receive a commission on purchases made from links.\r\nConsole prices are getting pretty expensive, and that doesn't seem like a trend that's ending anytime soon. What's more surprising is how mu… [+1483 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kotaku"
+        },
+        "author": "Lewis Parker",
+        "title": "The Physical Revolution on Jailbroken PS5s Now Has People Emulating PS3 Discs - Kotaku",
+        "description": "Coder Swordpdf has released a video showing a physical PS3 copy of Gran Turismo 5 being used to boot the game on PS5s, only three days after dropping the PS5SX2 emulator",
+        "url": "https://kotaku.com/the-physical-revolution-on-jailbroken-ps5s-now-has-people-emulating-ps3-discs-2000744606",
+        "urlToImage": "https://kotaku.com/app/uploads/2026/03/ps3-update.jpg",
+        "publishedAt": "2026-10-12T18:00:29Z",
+        "content": "Roughly three days ago, coder Swordpdf unveiled PS5SX2: a vibecoded port of the PCSX2 emulator, which allows users to emulate PS2 games on jailbroken PS5s by using physical PlayStation 2 discs. Today… [+2505 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Insider-gaming.com"
+        },
+        "author": "Sam Sepiol",
+        "title": "PS5 Jailbreak App ‘Overdrive’ Seemingly Makes Games and DLC Free - Insider Gaming",
+        "description": "A new app called Overdrive has been released for jailbroken PS5s, which apparently allows users to access all games and DLC for free.",
+        "url": "https://insider-gaming.com/ps5-jailbreak-app-overdrive-seemingly-makes-games-and-dlc-free/",
+        "urlToImage": "https://insider-gaming.com/wp-content/uploads/2024/08/Untitled-design-5-3.png",
+        "publishedAt": "2026-10-12T17:41:26Z",
+        "content": "A new app called ‘Overdrive’ has been released for jailbroken PS5s and appears to make all games and DLC free to download. \r\nPlayers have been hearing about a new PS5 jailbreak in recent days, and so… [+1972 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "Malcolm Owen",
+        "title": "M5 Pro MacBook Pro vs Microsoft Surface Laptop Ultra: Compared - AppleInsider",
+        "description": "The Microsoft Surface Laptop Ultra uses Nvidia graphics in a bid to take over from the 14-inch MacBook Pro with M5 Pro as a productivity favorite. Here's how the two powerful notebooks compare.",
+        "url": "https://appleinsider.com/inside/14-inch-macbook-pro/vs/m5-pro-macbook-pro-vs-microsoft-surface-laptop-ultra-compared",
+        "urlToImage": "https://media.appleinsider.com/gallery/69312-146161-mbpslu-xl.jpg",
+        "publishedAt": "2026-10-12T17:22:00Z",
+        "content": "14-inch MacBook Pro [left] vs Surface Laptop Ultra [right]\r\nIf you buy through our links, we may get a commission. Read our ethics policy.\r\nThe Microsoft Surface Laptop Ultra uses Nvidia graphics in … [+15555 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow - MacRumors",
+        "description": "Apple's \"Welcome Home\" product launch is happening tomorrow. As the name suggests, Apple is going to debut new home accessories,...",
+        "url": "https://www.macrumors.com/guide/apple-welcome-home-product-recap/",
+        "urlToImage": "https://images.macrumors.com/t/Xl9wKPBYDhzmRMLcxwoOY9va4rc=/2500x/article-new/2026/10/Apple-TV-4K-HomeView-HomePod-Mini-tweaked.jpg",
+        "publishedAt": "2026-10-12T17:17:00Z",
+        "content": "Apple's \"Welcome Home\" product launch is happening tomorrow. As the name suggests, Apple is going to debut new home accessories, including the long-rumored home hub.\r\nBelow, we've listed all the rumo… [+6152 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GamesIndustry.biz"
+        },
+        "author": "Vikki Blake",
+        "title": "Nvidia reportedly ends GeForce RTX 5090 graphics card production - GamesIndustry.biz",
+        "description": "Nvidia has reportedly stopped manufacturing the GeForce RTX 5090, including the D variants made for the Chinese market.",
+        "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+        "urlToImage": "https://assetsio.gnwcdn.com/nvidia_ctHUg28.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2026-10-12T16:17:15Z",
+        "content": "Nvidia has reportedly stopped manufacturing the GeForce RTX 5090, including the D variants made for the Chinese market.\r\nThe claim comes from a leaked notice from an unnamed factory, shared by leaker… [+1233 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Joe Rossignol",
+        "title": "Apple Plans Two-Day Event to Showcase Trio of New Macs and iPad Mini - MacRumors",
+        "description": "Apple is planning to invite content creators to a two-day product showcase in Los Angeles on October 27 and October 28, according to Bloomberg's...",
+        "url": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/",
+        "urlToImage": "https://images.macrumors.com/t/Sa45WpyBk4fP8VHn6dTWNNsULG8=/1960x/article-new/2025/10/M5-MacBook-Pro.jpg",
+        "publishedAt": "2026-10-12T16:15:06Z",
+        "content": "Apple is planning to invite content creators to a two-day product showcase in Los Angeles on October 27 and October 28, according to Bloomberg's Mark Gurman.\r\nDo not expect a traditional Apple Event … [+1158 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Videocardz.com"
+        },
+        "author": null,
+        "title": "AMD Ryzen AI Halo with Ryzen AI Max+ PRO 495 launches at $7,299 with 192GB memory - VideoCardz.com",
+        "description": "AMD's 192GB Ryzen AI Halo costs $3,300 more than the original 128GB model. The new version uses the Ryzen AI Max+ PRO 495 processor with 16 Zen 5 cores.",
+        "url": "https://videocardz.com/newz/amd-ryzen-ai-halo-with-ryzen-ai-max-pro-495-launches-at-7299-with-192gb-memory",
+        "urlToImage": "https://cdn.videocardz.com/1/2026/10/RYZEN-AI-HALO-MAX-495-HERO.webp",
+        "publishedAt": "2026-10-12T16:03:36Z",
+        "content": "AMD’s upgraded developer PC is now listed at Micro Center with twice the price of the original model.\r\nAMD’s Ryzen AI Halo developer platform with the Ryzen AI Max+ PRO 495 processor has reached reta… [+2057 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gear Patrol"
+        },
+        "author": "Johnny Brayson",
+        "title": "Costco Is Quietly Offering an Underrated, Discontinued Omega Watch Online - Gear Patrol",
+        "description": "Costco is currently offering a discontinued annual calendar dress watch from Omega as an online-only special.",
+        "url": "https://www.gearpatrol.com/watches/costco-omega-de-ville-annual-calendar/",
+        "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/10/costco-omega-annual-calendar-16x9-Lead-1.webp",
+        "publishedAt": "2026-10-12T15:47:51Z",
+        "content": "The De Ville’s case is made of stainless steel and measures 41mm across and 14.15mm thick. Its sapphire crystal has AR coating on both sides, and there’s another sapphire crystal on the back to show … [+1116 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": "mashable",
+          "name": "Mashable"
+        },
+        "author": "Alex Perry",
+        "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full - Mashable",
+        "description": "Only about a month until the game is out.",
+        "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-lucia-leaked-gameplay-videos",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/03sZ0A4BYrf77U0A6HR6KhF/hero-image.fill.size_1200x675.v1791815910.jpg",
+        "publishedAt": "2026-10-12T15:15:24Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "Christine McKee",
+        "title": "Apple's 2TB MacBook Pro drops to $2,399, lowest price of the season - AppleInsider",
+        "description": "Amazon has slashed Apple's 14-inch M5 Pro MacBook Pro with 2TB of storage to $2,399, a $600 discount.",
+        "url": "https://appleinsider.com/articles/26/10/12/apples-2tb-m5-pro-macbook-pro-plunges-to-2399-600-off",
+        "urlToImage": "https://media.appleinsider.com/gallery/69332-146190-macbook-pro-m5-pro-2tb-600-off-xl.jpg",
+        "publishedAt": "2026-10-12T15:15:00Z",
+        "content": "Save $600 on Apple's 2TB MacBook Pro - Image credit: Apple\r\nIf you buy through our links, we may get a commission. Read our ethics policy.\r\nAmazon has slashed Apple's 14-inch M5 Pro MacBook Pro with … [+3764 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Lauren Forristal",
+        "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch - TechCrunch",
+        "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+        "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
+        "publishedAt": "2026-10-12T15:11:19Z",
+        "content": "Google’s Fitbit lineup expanded on Monday with the introduction of the Fitbit Edge, a new wearable that’s positioned between the Fitbit Air and Pixel Watch. \r\nPriced at $179.99, it combines the Fitbi… [+1912 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lifehacker.com"
+        },
+        "author": "Tim Mulkerin",
+        "title": "Today's NYT Strands Hints (and Answer) for Monday, October 12, 2026 - Lifehacker",
+        "description": "Here are some hints to help you win NYT Strands #953.",
+        "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-in-a-manner-of-speaking-october-12-2026",
+        "urlToImage": "https://lifehacker.com/imagery/articles/01M4H6BNRBSGKR17GP6DAY8QFK/hero-image.fill.size_1200x675.jpg",
+        "publishedAt": "2026-10-12T15:02:37Z",
+        "content": null,
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Patrick Holland",
+        "title": "I Tested the iPhone 18 Pro and Pro Max’s Batteries and Was Awestruck by One Change - CNET",
+        "description": "Turns out the new iPhone 18 Pro and Pro Max have more to offer than just their fancy camera and new burgundy color. Both performed well in our battery tests.",
+        "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-max-battery-charging-tests-lab-exclusive/",
+        "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Image_20261009_090030_990-1.jpeg",
+        "publishedAt": "2026-10-12T15:00:21Z",
+        "content": "Battery life might be the iPhone 18 Pro’s sleeper feature.\r\nWhen Apple announced the iPhone 18 Pro and 18 Pro Max, the phones were instantly overshadowed by their new sibling, the iPhone Duo, which h… [+7903 chars]",
+        "category": "technology"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pure Xbox"
+        },
+        "author": "Craig Reid",
+        "title": "Valor Mortis Reviews Are Mixed Ahead Of Its Xbox Game Pass Day One Launch - Pure Xbox",
+        "description": "Greater than the sum of its Bonepartes?",
+        "url": "https://www.purexbox.com/news/2026/10/valor-mortis-reviews-are-mixed-ahead-of-its-xbox-game-pass-day-one-launch",
+        "urlToImage": "https://images.purexbox.com/9ba8881fa7882/1280x720.jpg",
+        "publishedAt": "2026-10-12T14:20:00Z",
+        "content": "We've had two particularly heavy-hitters joining Xbox Game Pass this month, the first being Gears of War: E-Day, and the second being Valor Mortis. From the creators of Ghostrunner, this plague-ridde… [+5789 chars]",
+        "category": "technology"
+      },
       {
         "source": {
           "id": null,
@@ -1008,6 +1512,300 @@
     "business": [
       {
         "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Justina Lee, Fred Imbert",
+        "title": "S&P 500 futures are flat ahead of bank earnings; South Korea's Kospi falls below 6,000: Live updates - CNBC",
+        "description": "Big banks JPMorgan, Goldman Sachs, Citigroup and Wells Fargo are slated to release their results before the open on Tuesday.",
+        "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108327435-1782483970823-Traders-Photo-20260626-KK-PRESS-007.jpg?v=1782484337&w=1920&h=1080",
+        "publishedAt": "2026-10-13T00:53:48Z",
+        "content": "Futures tied to the broad market S&amp;P 500 were little changed on Monday night, with traders bracing for a slew of corporate earnings reports from major companies such as JPMorgan Chase and UnitedH… [+1878 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Youkyung Lee, Winnie Hsu",
+        "title": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks - Bloomberg.com",
+        "description": "A global slide in semiconductor stocks deepened, sending South Korea’s chip-heavy equity benchmark down 7% as concerns about AI overheating and Chinese competition intensified.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-13/korean-chip-stocks-sink-on-chinese-rival-worry-broadcom-remarks",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEZRx.hw.Js8/v0/1200x800.jpg",
+        "publishedAt": "2026-10-13T00:28:00Z",
+        "content": "A global slide in semiconductor stocks deepened, sending South Koreas chip-heavy equity benchmark down 7% as concerns about AI overheating and Chinese competition intensified.\r\nSamsung Electronics Co… [+265 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Tata boardroom feud is testing a trusted business empire - BBC",
+        "description": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+        "url": "https://www.bbc.com/news/articles/c54g1mp7lz7zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aae4/live/000b9180-c61f-11f1-8c89-b96b8469b965.jpg",
+        "publishedAt": "2026-10-12T23:10:32Z",
+        "content": "While most consumers appear unfazed, the dispute has polarised other stakeholders including business partners, investors and employees. Some view it as corporate power politics, others as a genuine g… [+67 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WTVD-TV"
+        },
+        "author": "Elaina Athans",
+        "title": "Flight disruptions cause more than 200 delays at RDU: 'It's a mess' - ABC11 News",
+        "description": "RDU Airport travelers faced widespread problems after an FAA ground stop led to delays and cancellations.",
+        "url": "https://abc11.com/post/flight-disruptions-cause-more-180-delays-rdu-mess/19932781/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/19933242_101226-wtvdd-rdu-cut-clean-img.jpg?w=1600",
+        "publishedAt": "2026-10-12T22:26:40Z",
+        "content": "MORRISVILLE, N.C. (WTVD) -- Travelers at Raleigh-Durham International Airport faced widespread disruptions after an FAA ground stop led to delays and cancellations, including one international travel… [+1254 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "Marko Zivkovic",
+        "title": "Apple & Samsung dominate the smartphone market amid decline - AppleInsider",
+        "description": "While global smartphone shipments fell to their lowest quarterly level since Q3 2012, Apple and Samsung both managed to capture well over a fifth of the market.",
+        "url": "https://appleinsider.com/articles/26/10/12/apple-trails-samsung-as-global-smartphone-shipments-hit-a-13-year-low",
+        "urlToImage": "https://media.appleinsider.com/gallery/69344-146219-iPhone-18-Pro-Max-camera-plateau-back-side-xl.jpg",
+        "publishedAt": "2026-10-12T22:02:00Z",
+        "content": "Apple's iPhone eats up more market share as global shipments fall\r\nWhile global smartphone shipments fell to their lowest quarterly level since Q3 2012, Apple and Samsung both managed to capture well… [+3946 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation - Fox Business",
+        "description": "Brad Smith says AI faces fewer safety rules than milk or washing machines, calling for global regulation with emergency brakes and incident reports.",
+        "url": "https://www.foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/microsoft-president-brad-smith-01.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-12T21:55:00Z",
+        "content": "Microsoft President Brad Smith highlighted the need for global regulation of artificial intelligence (AI) in a new interview, saying that AI currently faces lighter safety requirements than milk. \r\nS… [+2779 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Steve Kopack",
+        "title": "Energy prices rise after Trump’s ‘energy ceasefire’ fails to move Russia or Ukraine - NBC News",
+        "description": "Oil and gas prices rose Monday after an “energy ceasefire” announced by President Donald Trump on Sunday failed to gain traction.",
+        "url": "https://www.nbcnews.com/business/energy/oil-prices-trump-energy-ceasefire-fails-rcna603031",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260330-gas-station-rs-8b7e90.jpg",
+        "publishedAt": "2026-10-12T21:42:27Z",
+        "content": "Oil and gas prices rose Monday after an energy ceasefire announced by President Donald Trump on Sunday failed to gain traction.\r\nBrent crude oil jumped 2% to almost $108 per barrel and U.S. crude oil… [+5305 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Will Flannigan",
+        "title": "Individual Investors Are Trading at Meme-Stock Levels | What’s News for Oct. 12 - WSJ",
+        "description": "Plus, Trump’s manufacturing plans face reality, and Meta’s launches a new AI model",
+        "url": "https://www.wsj.com/business/whats-news-newsletter-10-12-2026-56359fe0",
+        "urlToImage": "https://images.wsj.net/im-49658545/social",
+        "publishedAt": "2026-10-12T21:32:38Z",
+        "content": "This is an edition of the Whats News newsletter, which helps you catch up on the headlines and understand the news, free in your inbox daily. If youre not subscribed, sign up here.\r\n1. Individual inv… [+568 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "AI’s Giant Money Loop Is Drawing Foreign Cash Like 2008 - Bloomberg.com",
+        "description": "A circular funding model is accelerating the AI boom, but also amplifying imbalances — reviving memories of the global financial crisis",
+        "url": "https://www.bloomberg.com/news/features/2026-10-12/how-the-ai-boom-is-fueling-global-financial-risks",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaeKTiTIwY54/v1/1200x800.jpg",
+        "publishedAt": "2026-10-12T21:00:03Z",
+        "content": "If you want to understand the way capital is flowing around the world right now and the new stress points forming, take a drive outside Washington to Loudoun County, Virginia. Two decades ago, it was… [+510 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "JPMorgan, Goldman Sachs Earnings Due As Bank Outlook Shifts - Investor's Business Daily",
+        "description": "The Dow giants report Tuesday along with Wells Fargo and Citigroup.",
+        "url": "https://www.investors.com/news/jpmorgan-chase-goldman-sachs-earnings-wells-fargo-citigroup/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/04/stock-JPMorgan-07-shutter.jpg",
+        "publishedAt": "2026-10-12T20:25:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Sophia Compton",
+        "title": "Starbucks says it is not buying Chipotle following deal speculation - Fox Business",
+        "description": "Starbucks is shutting down takeover speculation after a report said that the coffee giant had explored a potential deal for the burrito chain.",
+        "url": "https://www.foxbusiness.com/retail/starbucks-says-not-buying-chipotle-following-deal-speculation",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-12T20:12:00Z",
+        "content": "Starbucks is putting an end to speculation that it could acquire burrito chain Chipotle Mexican Grill.\r\nA Starbucks spokesperson confirmed to FOX Business on Monday that the coffee giant is not buyin… [+2421 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Jacob Zinkula",
+        "title": "The hidden risk of losing your job after 50: A job search that drags on for years - Business Insider",
+        "description": "Losing a job after 50 can derail a career for years. Older workers describe prolonged job searches, age discrimination concerns, and financial strain.",
+        "url": "https://www.businessinsider.com/losing-job-after-50-long-term-unemployment-age-discrimination-retire-2026-10#article",
+        "urlToImage": "https://i.insider.com/6acd31b4c2928e989ab95cbf?width=1200&format=jpeg",
+        "publishedAt": "2026-10-12T19:37:00Z",
+        "content": "Cathy Valentine lost her job as a transformation lead in 2023. After three years struggling to find a comparable full-time job, the 61-year-old is now a prep cook at a cafe. She said she earns about … [+5100 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wccftech"
+        },
+        "author": "Hassan Mujtaba",
+        "title": "Intel Crescent Island Squeezes 1.3 PFLOPs Of FP8 Into Just 350W As D270 Targets The Competition With Value-Oriented LPDDR5X Up To 480 GB - Wccftech",
+        "description": "Intel is announcing its D-Series GPUs, formerly Crescent Island, as the next AI data center lineup based on the Xe3P architecture.",
+        "url": "https://wccftech.com/intel-crescent-island-1-3-pflops-fp8-just-350w-d270-targets-competition-value-lpddr5x/",
+        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/305c290f-8764-478b-9fd4-7aaea1ff26b3.jpg",
+        "publishedAt": "2026-10-12T19:25:18Z",
+        "content": "Intel is announcing its D-Series GPUs, formerly Crescent Island, as the next AI data center lineup based on the Xe3P architecture.\r\nThe Intel Crescent Island GPU is based on the brand-new Xe3P archit… [+9213 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Mary K. Jacob",
+        "title": "Wall Street titan’s $80M bulletproof UES mansion could set Manhattan townhouse record - New York Post",
+        "description": "John and Christy Mack spent six years turning a Gilded Age stable into a 20-room Lenox Hill palace, and now they’re heading home to North Carolina,",
+        "url": "https://nypost.com/2026/10/12/real-estate/wall-street-titan-lists-bulletproof-upper-east-side-mansion-for-80-million-could-become-priciest/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-86fttp3we-1791832728907.jpg?quality=75&strip=all&1791818366&w=1200",
+        "publishedAt": "2026-10-12T19:21:00Z",
+        "content": "Talk about horsepower.\r\nFormer Morgan Stanley honcho John Mack and his wife, Christy, have put their converted Upper East Side carriage house on the market for a jaw-dropping $80 million, making it t… [+6292 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Eric Mack",
+        "title": "Pickleball facility franchisor files for bankruptcy as founder acknowledges business mistake: 'I own it' - Fox Business",
+        "description": "The Picklr's Chapter 11 filing stems from costly lease guarantees on about 40 franchise locations as an investor group commits millions for restructuring.",
+        "url": "https://www.foxbusiness.com/lifestyle/pickleball-facility-franchisor-files-bankruptcy-founder-acknowledges-business-mistake-i-own-it",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/0/0/pie-app.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-12T19:06:00Z",
+        "content": "Pickleball facility franchisor The Picklr has filed for Chapter 11 bankruptcy protection as the company seeks to reorganize after what its founder acknowledged was a costly business mistake tied to e… [+5583 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Erik Hayden",
+        "title": "Getty Images to File for Bankruptcy, Go Private In Restructuring Deal - The Hollywood Reporter",
+        "description": "Affiliates of Charles Koch's investment firm and the Getty family have pledged up to $533 million of new equity for the photo provider.",
+        "url": "http://www.hollywoodreporter.com/business/business-news/getty-images-to-file-for-bankruptcy-go-private-1236727902/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/GettyImages-2153502773.jpg?w=1440&h=810&crop=1",
+        "publishedAt": "2026-10-12T18:33:45Z",
+        "content": "After abandoning a $3.7 billion merger with rival Shutterstock in late June over a regulatory roadblock, Getty Images now plans to file for Chapter 11 bankruptcy and go private in partnership with Ch… [+3363 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Jon Brodkin",
+        "title": "Anthropic’s Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
+        "description": "“I may have information regarding this case,\" Claude AI told Philly police.",
+        "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+        "publishedAt": "2026-10-12T18:21:36Z",
+        "content": null,
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Grace O'Donnell",
+        "title": "Sandisk stock is this bull market's emergent star - Yahoo Finance",
+        "description": "Sandisk stock (SNDK) has soared over 3,000% since its IPO a year and a half ago.",
+        "url": "https://finance.yahoo.com/technology/article/sandisk-stock-is-this-bull-markets-emergent-star-182109129.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/ce4aba44d043a66edf88cf6a4564c5fbb7904f1bf26788d4ac00f2a50a12f2c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F034c224f-70e7-46f5-9270-39db61201d1a",
+        "publishedAt": "2026-10-12T18:21:09Z",
+        "content": "Sandisk stock (SNDK) has soared over 3,000% since its IPO a year and a half ago.\r\nAs Yahoo Finance's Julie Hyman pointed out on this fourth anniversary of the bull market, Sandisk has had the best pe… [+2420 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Sarah Min",
+        "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging - CNBC",
+        "description": "The S&P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+        "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108340023-17849188482026-07-24t145944z_940041411_rc2dkma3djbf_rtrmadp_0_usa-stocks.jpeg?v=1788450583&w=1920&h=1080",
+        "publishedAt": "2026-10-12T18:18:39Z",
+        "content": "Happy birthday to the bull market, which just turned four. \r\nMonday marks the fourth anniversary of the current bull market, with the S&amp;P 500 having climbed nearly 120% since its closing low on O… [+3212 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Cara Lombardo",
+        "title": "Exclusive | Dating App Bumble in Advanced Talks to Go Private at $1 Billion Valuation - WSJ",
+        "description": "Founder Whitney Wolfe Herd expected to stay involved with company as part of deal",
+        "url": "https://www.wsj.com/business/deals/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-fcc8c6ef",
+        "urlToImage": "https://images.wsj.net/im-56344589/social",
+        "publishedAt": "2026-10-12T18:10:00Z",
+        "content": "BumbleBMBL49.61%increase; up pointing triangle\r\n, the dating-app company founded by Whitney Wolfe Herd, is in advanced talks to be taken private in a deal that values it at roughly $1 billion, accord… [+399 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "Meta launches Muse Wonder AI model family with frontier-level performance - Yahoo Finance",
+        "description": "Meta has launched its frontier-level Muse Wonder family of AI models.",
+        "url": "https://finance.yahoo.com/technology/article/meta-launches-muse-wonder-ai-model-family-with-frontier-level-performance-180839235.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9b0704f714b83176aac17a4a30cb6d249d2a0c1428290d2281c94554b72d782c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F691415cd-e7e7-494e-939f-412933765591",
+        "publishedAt": "2026-10-12T18:08:39Z",
+        "content": "Meta's (META) vast investments in its Meta Superintelligence Labs continue to pay dividends as the company unveiled its AI models, Muse Wonder and Muse Wonder Full, on Monday.\r\nAccording to the socia… [+2612 chars]",
+        "category": "business"
+      },
+      {
+        "source": {
           "id": "bloomberg",
           "name": "Bloomberg"
         },
@@ -1164,6 +1962,342 @@
       }
     ],
     "sports": [
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Rams vs. Bills live updates: Two Super Bowl favorites in tight battle on 'Monday Night Football' - CBS Sports",
+        "description": "Keep up with all the biggest developments as Los Angeles hosts Buffalo on 'MNF'",
+        "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-live-updates-score-highlights/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/13/8aa65269-91df-426e-bf75-0c220cc9e3ad/thumbnail/1200x675/16c459fd60522e4dc0c819c92ef8c86b/ramsbills.jpg",
+        "publishedAt": "2026-10-13T01:30:00Z",
+        "content": "The Buffalo Bills and Los Angeles Rams have one half of their \"Monday Night Football' matchup in the books. At the break, the Bills hold a slim 13-7 lead. \r\nBuffalo opened up the scoring with a Tyler… [+1109 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers - Fox News",
+        "description": "Milwaukee's BABIP machine and unhittable bullpen put the Los Angeles Dodgers' three-peat hopes on life support with a commanding 2-0 NLCS lead.",
+        "url": "https://www.foxnews.com/outkick-sports/dodgers-dynasty-brink-milwaukee-babip-machine-dials-another-win-brewers",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/brice-turang-brewers-rbi-base-hit-fox-news_.jpg",
+        "publishedAt": "2026-10-13T00:48:40Z",
+        "content": "Game 2 of the National League Championship Series on Monday afternoon was a must-win for the Los Angeles Dodgers.\r\nDespite widespread perception that the Dodgers are the unbeatable superteam, it was … [+7035 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Josh Alper",
+        "title": "Deebo Samuel to miss time with hamstring injury, Nick Bosa could return this week - NBC Sports",
+        "description": "The 49ers are going to be down another wide receiver in the coming weeks.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-to-miss-time-with-hamstring-injury-nick-bosa-could-return-this-week",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/6b0ccbc/2147483647/strip/true/crop/3685x2073+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2Fb4%2Fd3d6349b493182a298859aba0e08%2F2299735294.jpg",
+        "publishedAt": "2026-10-12T22:16:20Z",
+        "content": "The 49ers are going to be down another wide receiver in the coming weeks. \r\nHead coach Kyle Shanahan said that Deebo Samuel will be out of the lineup for an indefinite period of time after injuring h… [+598 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "bostonsportsjournal.com"
+        },
+        "author": "https://facebook.com/BostonSportsJournal",
+        "title": "Bedard: 4 sequences to a blowout win - Defense clamps down twice, Maye makes it look easy vs. Raiders - Boston Sports Journal",
+        "description": "Breaking down the key sequences, through video analysis, in the Patriots' 45-17 blowout win over the Raiders, including:- The defense not yielding points twice in their own territory when the game was still 14-7;- Drake Maye taking a smart sack, and two plays…",
+        "url": "https://www.bostonsportsjournal.com/2026/10/12/bedard-4-sequences-to-a-blowout-win---defense-clamps-down-twice-maye-makes-it-look-easy-vs-raiders",
+        "urlToImage": "https://www.bostonsportsjournal.com/img/Patriots/williams-101126patsraiders_dsc8946-1600x900.jpg",
+        "publishedAt": "2026-10-12T21:47:42Z",
+        "content": "Breaking down the key sequences, through video analysis, in the Patriots' 45-17 blowout win over the Raiders, including:\r\n- The defense not yielding points twice in their own territory when the game … [+2123 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deseret News"
+        },
+        "author": "Jackson Payne",
+        "title": "‘This is exactly why we’re at Notre Dame’: Irish coach Marcus Freeman previews marquee matchup with No. 8 BYU - Deseret News",
+        "description": "No. 2 Notre Dame coach talks about preparing for Provo’s elevation and the thrill of playing games like this on the road",
+        "url": "https://www.deseret.com/sports/2026/10/12/notre-dame-football-head-coach-marcus-freeman-previews-byu-matchup/",
+        "urlToImage": "https://www.deseret.com/resizer/v2/XO3CZQIDWFAGZMSZUWTQSTNAVE.jpg?focal=1189%2C644&auth=528353752f7cb2b5896e42e8e65ad875ae1c97bcba54ff6132cf694fb8f2bee0&width=630&height=331",
+        "publishedAt": "2026-10-12T21:45:00Z",
+        "content": "Notre Dame has been quite impressive thus far in 2026.\r\nThe Irish are 6-0, ranked No. 2 in the country, and have won each game by an average margin of 33 points. Following last seasons College Footba… [+4745 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Bryan DeArdo",
+        "title": "Cowboys hire former NFL head coach, Packers' DC to help fix struggling defense - CBS Sports",
+        "description": "Brian Schottenheimer is calling in reinforcements after Thursday night's loss against the Bucs",
+        "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/12/7b748f78-4eea-4881-9cdf-7a9ebd49ecea/thumbnail/1200x675/f6e3a08a79f6e572abd6f49eecfb5f61/mikepettine.jpg",
+        "publishedAt": "2026-10-12T21:37:00Z",
+        "content": "Brian Schottenheimer is turning to a familiar face in an effort to improve his struggling defense. On Monday, Schottenheimer announced the hiring of Mike Pettine as the Cowboys' new senior defensive … [+4328 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jason Owens",
+        "title": "UCLA coach Bob Chesney denounces Bear Alexander's 'egregious' punch to back of QB Nico Iamaleava's head vs. Oregon that refs missed - Yahoo Sports",
+        "description": "The punch took place on the same play that injured Iamaleava.",
+        "url": "https://sports.yahoo.com/college-football/breaking-news/article/ucla-coach-bob-chesney-denounces-bear-alexanders-egregious-punch-to-back-of-qb-nico-iamaleavas-head-vs-oregon-that-refs-missed-213103834.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/20b83f66dc79a30d64bfefd2c4d0b9656e4c0d50a26e6a7e9d8a7664f594bba4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fe0322517-73c7-4c5b-a0eb-2f89b45d8405",
+        "publishedAt": "2026-10-12T21:30:27Z",
+        "content": "On Monday, UCLA confirmed that quarterback Nico Iamaleava has a knee injury from Saturday's win over Oregon that will reportedly sideline him indefinitely and potentially for the rest of the season.\r… [+1486 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Max Olson",
+        "title": "Texas A&M coach Elko says he regrets 'cesspool' comments - ESPN",
+        "description": "Mike Elko said his viral remark after the Aggies' loss to Missouri was made in the heat of the moment.",
+        "url": "https://www.espn.com/college-football/story/_/id/50168753/texas-coach-mike-elko-regrets-cesspool-comments",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1129%2Fr1582390_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-10-12T21:15:00Z",
+        "content": "Texas A&amp;M coach Mike Elko expressed regret Monday for his comments after losing to Missouri in which he referred to the website TexAgs and a portion of the Aggies' fanbase as a \"cesspool.\"\r\nAfter… [+3479 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "Ben Collins",
+        "title": "Jordan 'Last Dance' jersey sells for record £10.6m - BBC",
+        "description": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia.",
+        "url": "https://www.bbc.com/sport/basketball/articles/cje36qz977yqo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c843/live/c34dbf20-c67d-11f1-841c-2105a54cdb08.jpg",
+        "publishedAt": "2026-10-12T21:05:46Z",
+        "content": "A Michael Jordan jersey from his 'Last Dance' season has sold for $14m (£10.6m), a record for a piece of basketball memorabilia.\r\nJordan wore the Chicago Bulls jersey during game two of the 1998 NBA … [+1169 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": "nhl-news",
+          "name": "NHL News"
+        },
+        "author": null,
+        "title": "Sabres acquire Jones, Laatsch from Penguins - NHL.com",
+        "description": "Buffalo trades Ryan Johnson for two defensemen.",
+        "url": "https://www.nhl.com/sabres/news/buffalo-sabres-trade-caleb-jones-daniel-laatsch-ryan-johnson",
+        "urlToImage": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/prd/x4bflbfdindzd4knncpd.png",
+        "publishedAt": "2026-10-12T21:05:18Z",
+        "content": "The Buffalo Sabres acquired defensemen Caleb Jones and Daniel Laatsch from the Pittsburgh Penguins on Monday in exchange for defenseman Ryan Johnson.\r\nJones, 29 years old and a left shot, has played … [+585 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Rivers McCown",
+        "title": "McCarthy wants to keep feeding Jaylen Warren - NBC Sports",
+        "description": "Steelers coach Mike McCarthy said \"there's a number you'd like to continue to give [Jaylen Warren],\" even after Rico Dowdle (toe) returns.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-12/mccarthy-wants-to-keep-feeding-jaylen-warren",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5f498a3/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2Fdf%2F0927c62e4d89bd6f4ee3ea82095d%2Fwarren-jaylen-800-1080-e18810b7710af500.jpg",
+        "publishedAt": "2026-10-12T20:58:02Z",
+        "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nbcsportsbayarea.com"
+        },
+        "author": "Dalton Johnson",
+        "title": "Steve Kerr shares positive update on absent Warriors center Kristaps Porziņģis - NBC Sports Bay Area & California",
+        "description": "Golden State Warriors coach Steve Kerr shared the latest on center Kristaps Porziņģis, who has been away from the team with an illness.",
+        "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-kristaps-porzingis-update/1970911/",
+        "urlToImage": "https://media.nbcsportsbayarea.com/2026/10/Kristaps-Porzingis-Reuters_f327b4.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-10-12T20:43:18Z",
+        "content": "SAN FRANCISCO Entering the third week of preseason, Warriors center Kristaps Porziis still hasnt been around the team. But there finally could be some more clarity to this mysterious situation. \r\nWar… [+3570 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": null,
+        "title": "A cross country runner switched to the girls team midseason, parents voice their disapproval at meet - Fox News",
+        "description": "A Camas High cross country runner switched from the boys team to the girls team midseason, sparking national debate over transgender athletes in sports.",
+        "url": "https://www.foxnews.com/outkick-sports/cross-country-runner-switched-girls-team-midseason-parents-voice-disapproval-meet",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/XC-Runners-crop.jpg",
+        "publishedAt": "2026-10-12T20:42:33Z",
+        "content": "\"Nobody wants to talk to you. I'm trying to be nice.\"\r\nThat was the not-so-nice greeting I got from a Camas High assistant cross country coach in Arlington, Washington on Saturday. It came as I stood… [+6338 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Cameron Salerno",
+        "title": "SEC basketball 2026-27 preseason poll and predictions: Alabama, Georgia overrated; LSU, Missouri underrated - CBS Sports",
+        "description": "Florida is the favorite to win the SEC after earning back-to-back No. 1 seeds in the NCAA Tournament",
+        "url": "https://www.cbssports.com/college-basketball/news/sec-basketball-preseason-poll-predictions-2026-27-overrated-underrated-alabama-lsu/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/12/dee1588a-c3e0-4fbf-80ef-327f63805947/thumbnail/1200x675/36f94e321db64caab4ae8a3e47e9445a/gettyimages-2144686160.jpg",
+        "publishedAt": "2026-10-12T20:37:00Z",
+        "content": "The 2026-27 college basketball season begins in less than a month, which means preseason predictions, polls and accolades are starting to trickle out before the season starts next month. On Monday, t… [+5800 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "San Francisco Chronicle"
+        },
+        "author": "Ann Killion",
+        "title": "3,500 seats for WNBA Finals game? Valkyries, Dream deserve better than this embarrassment - San Francisco Chronicle",
+        "description": "The WNBA Finals reflect the contrast of the two WNBAs, with the arenas for the Atlanta Dream and Golden State Valkyries highlighting its uneven evolution.",
+        "url": "https://www.sfchronicle.com/sports/annkillion/article/wnba-finals-game-3-500-seats-valkyries-dream-22473613.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/67/47/02/31355011/3/rawImage.jpg",
+        "publishedAt": "2026-10-12T20:22:18Z",
+        "content": "It's possible the Golden State Valkyries and Atlanta Dream will play NBA Finals games in the Gateway Center Arena in College Park, Ga., a facility with only 3,500 seats.\r\nAndrew J. Clark/ISI Photos v… [+6709 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": "Timothy Rapp",
+        "title": "Watch Sam Cosmi Kick Pylon in Trending Video After Commanders' Stunning Tie vs. Giants - Bleacher Report",
+        "description": "Nobody on the Washington Commanders was particularly happy after the team botched the final play in overtime against the New York Giants, allowing the clock to run out and preventing a potential game-winning field-goal attempt.",
+        "url": "https://bleacherreport.com/articles/25509637-watch-sam-cosmi-kick-pylon-trending-video-after-commanders-stunning-tie-vs-giants",
+        "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-10/390b5d837d3943d3bf7990b2c37e89de/Commanders_Cowboys_Football_32632_6858x3858_(0,239).jpg?w=1120&h=630",
+        "publishedAt": "2026-10-12T20:21:59Z",
+        "content": "Nobody on the Washington Commanders was particularly happy after the team botched the final play in overtime against the New York Giants, allowing the clock to run out and preventing a potential game… [+1742 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Josh Dubow",
+        "title": "NFL suspends 49ers linebacker Dre Greenlaw 1 game for headbutt - AP News",
+        "description": "San Francisco 49ers linebacker Dre Greenlaw was suspended for one game after head-butting Seattle’s Ernest Jones IV following a late hit on the Seahawks sideline. The NFL issued the suspension, saying the headbutt of a player without a helmet was “contrary to…",
+        "url": "https://apnews.com/article/49ers-dre-greenlaw-suspended-9b132c1bd95ce37ea3ebfe4f7e7d3c85",
+        "urlToImage": "https://dims.apnews.com/dims4/default/d73bf88/2147483647/strip/true/crop/3970x2645+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F43%2Fb9385af5f22dd4b57f4a5dc4d021%2F567fff3ececf4944a219fe132a3ce99c",
+        "publishedAt": "2026-10-12T20:06:00Z",
+        "content": "SANTA CLARA, Calif. (AP) San Francisco 49ers linebacker Dre Greenlaw was suspended for one game after head-butting Seattles Ernest Jones IV following a late hit on the Seahawks sideline.\r\nThe NFL iss… [+1560 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pats Pulpit"
+        },
+        "author": "Bernd Buchmasser",
+        "title": "Confident Caleb Lomu ready for starting role after Will Campbell injury - Pats Pulpit",
+        "description": "The rookie is in line to take over as the Patriots’ left tackle.",
+        "url": "https://www.patspulpit.com/new-england-patriots-news/140462/caleb-lomu-starting-role-will-campbell-injury",
+        "urlToImage": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2299751569.jpg?quality=90&strip=all&crop=0%2C3.788298756115%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-12T19:37:52Z",
+        "content": "The New England Patriots saw another starter go down during Sundays win over the Las Vegas Raiders. Will Campbell, the teams left tackle, suffered a reported knee sprain when he was rolled up on in t… [+2757 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Zachary Krueger",
+        "title": "Vrabel: ‘A chance’ A.J. Brown practices this week - NBC Sports",
+        "description": "Patriots head coach Mike Vrabel said \"there's a chance\" A.J. Brown (ankle) will practice this week.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-12/vrabel-a-chance-a-j-brown-practices-this-week",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/22b2030/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2F8a%2Fd9c7fb4a4f4f85f16d5a44392c23%2Fbrown-aj-800-1080-40e07af150cf3068.jpg",
+        "publishedAt": "2026-10-12T19:20:06Z",
+        "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cincy Jungle"
+        },
+        "author": "Drew Garrison",
+        "title": "Joe Burrow gives stern warning to Bengals following mistake-filled win vs. Dolphins - Cincy Jungle",
+        "description": "Good enough to beat Miami, but not good enough to beat good teams.",
+        "url": "https://www.cincyjungle.com/cincinnati-bengals-news/202081/joe-burrow-warning-mistake-filled-win-vs-dolphins",
+        "urlToImage": "https://platform.cincyjungle.com/wp-content/uploads/sites/65/2026/10/gettyimages-2299243065.jpg?quality=90&strip=all&crop=0%2C10.728851358165%2C100%2C78.54229728367&w=1200",
+        "publishedAt": "2026-10-12T18:33:09Z",
+        "content": "The Cincinnati Bengals were able to snap their two-game losing streak on Sunday, beating the Miami Dolphins by a score of 31-24.\r\nIt was nice to get back in the win column, but it doesnt feel like an… [+1258 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Zachary Krueger",
+        "title": "‘All signs point’ to Caleb Williams playing Week 6 - NBC Sports",
+        "description": "NFL Network's Ian Rapoport said \"all signs point\" to Caleb Williams (hamstring) returning in Week 6 against the Falcons.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-12/all-signs-point-to-caleb-williams-playing-week-6",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f8cb07e/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F09%2F690bfaf34f54838456a21bdfc7e9%2Fwilliams-caleb-copy.jpg",
+        "publishedAt": "2026-10-12T18:28:07Z",
+        "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "FantasyPros"
+        },
+        "author": "Pat Fitzmaurice",
+        "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 6) - FantasyPros",
+        "description": "The bye weeks provide fantasy football enthusiasts with a stern test of their managerial acumen. We were eased into the NFL&#8217;s bye period in Week 5 with a two-team bye week. Things get tougher this week with four teams — &#8230;  read more &raquo;",
+        "url": "https://www.fantasypros.com/2026/10/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-6-2026/",
+        "urlToImage": "https://cdn.fantasypros.com/wp-content/images/waiver_article_week_6_fantasy_football/1470x650.jpg",
+        "publishedAt": "2026-10-12T17:33:57Z",
+        "content": "The bye weeks provide fantasy football enthusiasts with a stern test of their managerial acumen.\r\nWe were eased into the NFL’s bye period in Week 5 with a two-team bye week. Things get tougher this w… [+35274 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Hayden Winks",
+        "title": "Marvin Harrison Jr. trade: Fantasy football impact for Texans' Nico Collins, C.J. Stroud and more - Yahoo Sports",
+        "description": "Hayden Winks examines the fantasy fallout of Marvin Harrison Jr. joining the Texans.",
+        "url": "https://sports.yahoo.com/fantasy/article/marvin-harrison-jr-trade-fantasy-football-impact-for-texans-nico-collins-cj-stroud-and-more-172204735.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/f763e094935b1e1241bfd61f830d3abed815c45c098cb081498a1276f501c3f7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F7a9ea400-0040-11f1-bfc9-07a604e65b9b",
+        "publishedAt": "2026-10-12T17:22:04Z",
+        "content": "The Marvin Harrison Jr. trade to the Texans was confirmed by head coach DeMeco Ryans himself after the team's blowout win against the Titans. Houston is sending a 2027 second-round pick (currently 39… [+5486 chars]",
+        "category": "sports"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deseret News"
+        },
+        "author": "Jackson Payne",
+        "title": "Who should be BYU’s ‘College GameDay’ guest picker? - Deseret News",
+        "description": "Here are 12 candidates to represent the Cougars when ESPN’s popular pregame show comes to Provo this weekend.",
+        "url": "https://www.deseret.com/sports/2026/10/12/byu-football-college-football-gameday-espn-potential-guest-pickers/",
+        "urlToImage": "https://www.deseret.com/resizer/v2/E76WAF4GOVGDXE7X6OFASAITAM.JPG?focal=1484%2C637&auth=0e6459d4ce24699c13e181a30f78131d188759bc97bee01b2f490204f0042bfc&width=630&height=331",
+        "publishedAt": "2026-10-12T17:15:00Z",
+        "content": "The eyes of the college football world will be upon Provo this weekend.\r\nHours before No. 8 BYU hosts No. 2 Notre Dame on Saturday in one of the most anticipated matchups of the college football seas… [+4433 chars]",
+        "category": "sports"
+      },
       {
         "source": {
           "id": "espn",

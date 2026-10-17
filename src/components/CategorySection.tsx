@@ -50,9 +50,9 @@ export const CategorySection: React.FC<CategorySectionProps> = ({
               <h2 className="text-base sm:text-lg font-bold text-white tracking-tight">
                 {category.name}
               </h2>
-              <span className="text-[11px] px-2.5 py-0.5 rounded-full bg-rose-500/10 text-rose-400 font-semibold border border-rose-500/20">
+              {/* <span className="text-[11px] px-2.5 py-0.5 rounded-full bg-rose-500/10 text-rose-400 font-semibold border border-rose-500/20">
                 Top 10 Stories
-              </span>
+              </span> */}
             </div>
             <p className="text-xs text-slate-400 hidden sm:block">
               {category.description}
