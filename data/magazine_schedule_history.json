@@ -1,0 +1,17 @@
+[
+  {
+    "id": "dispatch-1791192726225",
+    "type": "daily_morning",
+    "scheduledTime": "2026-10-05T09:32:06.225Z",
+    "dispatchedAt": "2026-10-05T09:32:06.225Z",
+    "subscribersCount": 5,
+    "successfulSends": 5,
+    "failedSends": 0,
+    "issueTitles": [
+      "The Daily Executive Strategist",
+      "The Daily Systems Engineer"
+    ],
+    "status": "completed",
+    "notes": "Automated dispatch for daily edition completed (5 delivered via Free Plan/SMTP)."
+  }
+]

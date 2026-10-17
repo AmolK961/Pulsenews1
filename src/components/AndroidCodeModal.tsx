@@ -509,6 +509,70 @@ fun ArticleCard(article: Article, onClick: () -> Unit) {
 }
 `
     },
+    'NewsSyncWorker.kt': {
+      desc: 'Android WorkManager implementation: automatically executes every 5 hours in the background to fetch, cache in JSON, and sort latest news first.',
+      language: 'kotlin',
+      code: `package com.pulsenews.app.worker
+
+import android.content.Context
+import androidx.work.*
+import java.util.concurrent.TimeUnit
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
+
+/**
+ * PulseNews 5-Hour Automated Background News Sync Worker
+ * Uses Android Jetpack WorkManager to fetch news every 5 hours,
+ * stores into local JSON cache, and displays latest breaking news first.
+ */
+class NewsSyncWorker(
+    appContext: Context,
+    workerParams: WorkerParameters
+) : CoroutineWorker(appContext, workerParams) {
+
+    override suspend fun doWork(): Result = withContext(Dispatchers.IO) {
+        try {
+            // 1. Fetch latest news from PulseNews API
+            val repository = NewsRepository.getInstance(applicationContext)
+            val freshArticles = repository.fetchLatestNews()
+
+            // 2. Sort descending (Latest news first)
+            val sorted = freshArticles.sortedByDescending { it.publishedAt }
+
+            // 3. Cache into local JSON store
+            repository.saveToLocalCache(sorted)
+
+            // 4. Update UI & trigger notification
+            NotificationHelper.notifyNewStories(applicationContext, sorted.size)
+
+            Result.success()
+        } catch (e: Exception) {
+            Result.retry()
+        }
+    }
+
+    companion object {
+        private const val WORK_NAME = "PulseNews5HourPeriodicSync"
+
+        fun scheduleEvery5Hours(context: Context) {
+            val constraints = Constraints.Builder()
+                .setRequiredNetworkType(NetworkType.CONNECTED)
+                .build()
+
+            val syncRequest = PeriodicWorkRequestBuilder<NewsSyncWorker>(5, TimeUnit.HOURS)
+                .setConstraints(constraints)
+                .build()
+
+            WorkManager.getInstance(context).enqueueUniquePeriodicWork(
+                WORK_NAME,
+                ExistingPeriodicWorkPolicy.KEEP,
+                syncRequest
+            )
+        }
+    }
+}
+`
+    },
     'NewsApiService.kt': {
       desc: 'Retrofit interface for NewsAPI.org v2 with suspend coroutines and API key interceptor.',
       language: 'kotlin',

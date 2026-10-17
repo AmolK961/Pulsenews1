@@ -25,6 +25,10 @@ import { DeveloperProfileSection } from './components/DeveloperProfileSection';
 import { DeveloperProfileModal } from './components/DeveloperProfileModal';
 import { BulkEmailModal } from './components/BulkEmailModal';
 import { AffiliateDealsHub } from './components/AffiliateDealsHub';
+import { NewsSyncBadge } from './components/NewsSyncBadge';
+import { TodaysNewsSection } from './components/TodaysNewsSection';
+import { AutomationScheduleModal } from './components/AutomationScheduleModal';
+import { useNewsSync } from './hooks/useNewsSync';
 import { MagazinePeriod } from './types/magazine';
 import { 
   Flame, 
@@ -49,7 +53,12 @@ import {
   Laptop,
   Mail,
   Youtube,
-  User
+  User,
+  Clock,
+  X,
+  Smartphone,
+  Tablet,
+  Monitor
 } from 'lucide-react';
 
 export default function App() {
@@ -100,6 +109,30 @@ export default function App() {
   const [isDeveloperProfileOpen, setIsDeveloperProfileOpen] = useState<boolean>(false);
   const [isBulkEmailOpen, setIsBulkEmailOpen] = useState<boolean>(false);
   const [isDealsModalOpen, setIsDealsModalOpen] = useState<boolean>(false);
+  const [isAutomationModalOpen, setIsAutomationModalOpen] = useState<boolean>(false);
+  const [showOnlyToday, setShowOnlyToday] = useState<boolean>(false);
+  const [syncToastMessage, setSyncToastMessage] = useState<string | null>(null);
+
+  // 5-Hour Inbuilt Background News Sync Hook (Latest News First)
+  const { syncStatus, isSyncing, triggerSync } = useNewsSync(
+    useCallback((freshArticles: Article[]) => {
+      if (freshArticles && freshArticles.length > 0) {
+        setCategoryArticles(freshArticles);
+        setSyncToastMessage(`Background 5-hour sync completed: Updated ${freshArticles.length} stories with latest news first!`);
+        setTimeout(() => setSyncToastMessage(null), 6000);
+      }
+    }, [])
+  );
+
+  // Calculate Today's Articles (published within the last 24 hours)
+  const todayArticles = React.useMemo(() => {
+    const now = Date.now();
+    return categoryArticles.filter(a => {
+      if (!a.publishedAt) return false;
+      const pub = new Date(a.publishedAt).getTime();
+      return !isNaN(pub) && (now - pub) <= 24 * 60 * 60 * 1000;
+    });
+  }, [categoryArticles]);
 
   // Sync bookmarks
   const refreshBookmarks = useCallback(() => {
@@ -752,6 +785,18 @@ export default function App() {
           </section>
         )}
 
+        {/* Dedicated Today's News Section (Multi-Device Responsive Grid & Background 5h Sync) */}
+        {todayArticles.length > 0 && (
+          <TodaysNewsSection
+            articles={todayArticles}
+            onSelectArticle={setActiveArticle}
+            onBookmarkToggle={refreshBookmarks}
+            isSyncing={isSyncing}
+            onManualSync={() => triggerSync('manual_user')}
+            totalStoreCount={monthlyMetadata?.totalArticles || 240}
+          />
+        )}
+
         {/* All Categories Sections (Showing Top 10 Stories per category on Home page) */}
         <div className="space-y-12">
           {CATEGORIES.map((category, idx) => {
@@ -817,6 +862,7 @@ export default function App() {
           setIsMagazineSubscribeOpen(true);
         }}
         onOpenDeals={() => setIsDealsModalOpen(true)}
+        onOpenAutomationSchedule={() => setIsAutomationModalOpen(true)}
         isMonthlyArchive={isMonthlyArchive}
         onToggleMonthlyArchive={() => {
           const next = !isMonthlyArchive;
@@ -840,6 +886,16 @@ export default function App() {
         articles={tickerArticles}
         onSelect={setActiveArticle}
       />
+
+      {/* 5-Hour Inbuilt Background News Sync Status Bar (Latest News First) */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 w-full pt-3">
+        <NewsSyncBadge
+          syncStatus={syncStatus}
+          isSyncing={isSyncing}
+          onManualSync={() => triggerSync('manual_user')}
+          isAndroidView={isAndroidView}
+        />
+      </div>
 
       {/* Google AdSense Top Leaderboard Banner */}
       {!isAndroidView && (
@@ -988,6 +1044,31 @@ export default function App() {
         />
       )}
 
+      {/* Automated Schedules & 7 AM/PM Magazine Dispatch Modal */}
+      <AutomationScheduleModal
+        isOpen={isAutomationModalOpen}
+        onClose={() => setIsAutomationModalOpen(false)}
+      />
+
+      {/* 5-Hour Silent Background Update Floating Toast */}
+      {syncToastMessage && (
+        <div className="fixed bottom-6 right-6 z-50 max-w-sm sm:max-w-md bg-slate-900/95 border border-emerald-500/50 text-white p-4 rounded-2xl shadow-2xl backdrop-blur-md flex items-center gap-3 animate-fade-in">
+          <div className="w-8 h-8 rounded-full bg-emerald-500/20 flex items-center justify-center shrink-0 text-emerald-400">
+            <RefreshCw className="w-4 h-4 animate-spin" />
+          </div>
+          <div className="flex-1 text-xs">
+            <p className="font-bold text-emerald-300">Background 5-Hour News Sync</p>
+            <p className="text-slate-300 mt-0.5">{syncToastMessage}</p>
+          </div>
+          <button 
+            onClick={() => setSyncToastMessage(null)}
+            className="p-1 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 transition cursor-pointer"
+          >
+            <X className="w-4 h-4" />
+          </button>
+        </div>
+      )}
+
       {/* Footer */}
       {!isAndroidView && (
         <footer className="bg-slate-950 border-t border-slate-900 py-10 mt-16 text-xs text-slate-500">
@@ -1038,6 +1119,14 @@ export default function App() {
               >
                 <Headphones className="w-3.5 h-3.5" />
                 <span>Audio Podcast</span>
+              </button>
+              <span>&bull;</span>
+              <button 
+                onClick={() => setIsAutomationModalOpen(true)}
+                className="hover:text-emerald-400 transition cursor-pointer flex items-center gap-1 font-semibold text-emerald-400"
+              >
+                <Clock className="w-3.5 h-3.5" />
+                <span>Automations (7 AM/PM &amp; 5h Sync)</span>
               </button>
               <span>&bull;</span>
               <button 

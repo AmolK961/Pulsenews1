@@ -25,6 +25,15 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
 }) => {
   const [bookmarked, setBookmarked] = React.useState(false);
 
+  // Check if article is published today (within last 24 hours)
+  const isToday = React.useMemo(() => {
+    if (!article.publishedAt) return false;
+    const pub = new Date(article.publishedAt).getTime();
+    if (isNaN(pub)) return false;
+    const diffHours = (Date.now() - pub) / (1000 * 60 * 60);
+    return diffHours >= 0 && diffHours <= 24;
+  }, [article.publishedAt]);
+
   React.useEffect(() => {
     setBookmarked(isArticleBookmarked(article.url));
   }, [article.url]);
@@ -74,6 +83,12 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
               <span className="px-3 py-1 rounded-full text-xs font-bold bg-rose-600 text-white shadow-lg tracking-wide uppercase">
                 Top Story
               </span>
+              {isToday && (
+                <span className="px-2.5 py-1 rounded-full text-xs font-bold bg-emerald-500/90 text-white shadow-lg tracking-wide uppercase flex items-center gap-1 border border-emerald-400/30">
+                  <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
+                  Today's News
+                </span>
+              )}
             </div>
             <button
               onClick={handleBookmarkClick}
@@ -190,6 +205,14 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
           loading="lazy"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-transparent to-transparent" />
+
+        {/* Today's News live indicator badge */}
+        {isToday && (
+          <div className="absolute top-2.5 left-2.5 z-10 flex items-center gap-1 px-2 py-0.5 rounded-full bg-emerald-600/90 text-white text-[10px] font-bold shadow-md backdrop-blur-sm border border-emerald-400/30">
+            <span className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
+            <span>Today's News</span>
+          </div>
+        )}
 
         {/* Category & Rank badge */}
         <div className="absolute bottom-2.5 left-2.5 flex items-center gap-1.5 z-10">
